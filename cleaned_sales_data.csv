@@ -1,0 +1,1201 @@
+Order_ID,Date,Customer_ID,Product_Category,Product_Name,Quantity,Unit_Price_INR,Total_Sales_INR,Payment_Method,State,Country,Month
+ORD100000,2024-01-01,CUST8270,Grocery,Atta 10Kg,2,20862,41724,Debit Card,Karnataka,India,1
+ORD100001,2024-01-02,CUST1860,Electronics,Tablet,5,15517,77585,Upi,Maharashtra,India,1
+ORD100002,2024-01-03,CUST6390,Home & Kitchen,Mixer Grinder,5,13937,69685,Credit Card,Karnataka,India,1
+ORD100003,2024-01-04,CUST6191,Home & Kitchen,Bedsheet,3,19825,59475,Credit Card,Gujarat,India,1
+ORD100004,2024-01-05,CUST6734,Beauty,Perfume,5,27988,139940,Cash On Delivery,Gujarat,India,1
+ORD100005,2024-01-06,CUST7265,Beauty,Perfume,4,12516,50064,Upi,Rajasthan,India,1
+ORD100006,2024-01-07,CUST1466,Grocery,Cooking Oil,5,29619,148095,Cash On Delivery,Maharashtra,India,1
+ORD100007,2024-01-08,CUST5426,Fashion,Jeans,1,4561,4561,Upi,Rajasthan,India,1
+ORD100008,2024-01-09,CUST6578,Fashion,T-Shirt,1,20344,20344,Upi,Delhi,India,1
+ORD100009,2024-01-10,CUST9322,Home & Kitchen,Water Bottle,2,14469,28938,Upi,West Bengal,India,1
+ORD100010,2024-01-11,CUST2685,Electronics,Smartwatch,1,4694,4694,Upi,Maharashtra,India,1
+ORD100011,2024-01-12,CUST1769,Fashion,Jacket,3,10433,31299,Upi,West Bengal,India,1
+ORD100012,2024-01-13,CUST7949,Grocery,Atta 10Kg,4,5005,20020,Cash On Delivery,Rajasthan,India,1
+ORD100013,2024-01-14,CUST3433,Beauty,Hair Dryer,5,14761,73805,Debit Card,Maharashtra,India,1
+ORD100014,2024-01-15,CUST6311,Fashion,Jacket,3,24411,73233,Debit Card,West Bengal,India,1
+ORD100015,2024-01-16,CUST6051,Grocery,Atta 10Kg,5,1589,7945,Debit Card,Gujarat,India,1
+ORD100016,2024-01-17,CUST7420,Home & Kitchen,Mixer Grinder,2,17520,35040,Credit Card,Maharashtra,India,1
+ORD100017,2024-01-18,CUST2184,Beauty,Lipstick,5,18380,91900,Debit Card,Rajasthan,India,1
+ORD100018,2024-01-19,CUST5555,Electronics,Smartphone,3,29915,89745,Upi,Gujarat,India,1
+ORD100019,2024-01-20,CUST4385,Grocery,Atta 10Kg,2,19050,38100,Credit Card,Gujarat,India,1
+ORD100020,2024-01-21,CUST7396,Electronics,Headphones,3,28845,86535,Cash On Delivery,West Bengal,India,1
+ORD100021,2024-01-22,CUST9666,Grocery,Atta 10Kg,1,27152,27152,Credit Card,Karnataka,India,1
+ORD100022,2024-01-23,CUST3558,Grocery,Cooking Oil,3,18224,54672,Debit Card,Delhi,India,1
+ORD100023,2024-01-24,CUST8849,Fashion,T-Shirt,1,17802,17802,Credit Card,Maharashtra,India,1
+ORD100024,2024-01-25,CUST3047,Fashion,Shoes,1,13974,13974,Upi,Maharashtra,India,1
+ORD100025,2024-01-26,CUST3747,Beauty,Perfume,2,25759,51518,Debit Card,Karnataka,India,1
+ORD100026,2024-01-27,CUST1189,Beauty,Face Cream,2,9305,18610,Upi,Rajasthan,India,1
+ORD100027,2024-01-28,CUST3734,Fashion,Jacket,5,9187,45935,Upi,West Bengal,India,1
+ORD100028,2024-01-29,CUST4005,Electronics,Laptop,5,14759,73795,Upi,Rajasthan,India,1
+ORD100029,2024-01-30,CUST5658,Beauty,Hair Dryer,3,1791,5373,Cash On Delivery,Gujarat,India,1
+ORD100030,2024-01-31,CUST2899,Beauty,Face Cream,5,1512,7560,Cash On Delivery,Rajasthan,India,1
+ORD100031,2024-02-01,CUST8734,Beauty,Lipstick,4,14888,59552,Debit Card,Delhi,India,2
+ORD100032,2024-02-02,CUST2267,Electronics,Smartwatch,3,19188,57564,Upi,Maharashtra,India,2
+ORD100033,2024-02-03,CUST2528,Home & Kitchen,Water Bottle,3,2669,8007,Debit Card,Karnataka,India,2
+ORD100034,2024-02-04,CUST4556,Grocery,Atta 10Kg,5,9217,46085,Debit Card,Maharashtra,India,2
+ORD100035,2024-02-05,CUST4890,Home & Kitchen,Cookware Set,3,11900,35700,Debit Card,Rajasthan,India,2
+ORD100036,2024-02-06,CUST9838,Home & Kitchen,Water Bottle,2,16277,32554,Upi,West Bengal,India,2
+ORD100037,2024-02-07,CUST6393,Fashion,Jeans,2,21927,43854,Credit Card,West Bengal,India,2
+ORD100038,2024-02-08,CUST9792,Beauty,Face Cream,1,2264,2264,Cash On Delivery,Gujarat,India,2
+ORD100039,2024-02-09,CUST9433,Grocery,Atta 10Kg,3,14949,44847,Upi,Gujarat,India,2
+ORD100040,2024-02-10,CUST8513,Home & Kitchen,Bedsheet,4,771,3084,Upi,Rajasthan,India,2
+ORD100041,2024-02-11,CUST3612,Grocery,Cooking Oil,4,7259,29036,Credit Card,Karnataka,India,2
+ORD100042,2024-02-12,CUST8041,Fashion,Jeans,1,15059,15059,Upi,Rajasthan,India,2
+ORD100043,2024-02-13,CUST7235,Home & Kitchen,Cookware Set,1,24797,24797,Cash On Delivery,Gujarat,India,2
+ORD100044,2024-02-14,CUST6486,Beauty,Hair Dryer,2,24021,48042,Cash On Delivery,West Bengal,India,2
+ORD100045,2024-02-15,CUST8099,Fashion,Jeans,3,21627,64881,Cash On Delivery,West Bengal,India,2
+ORD100046,2024-02-16,CUST1775,Grocery,Atta 10Kg,1,8013,8013,Debit Card,Delhi,India,2
+ORD100047,2024-02-17,CUST9226,Home & Kitchen,Bedsheet,2,11945,23890,Credit Card,Rajasthan,India,2
+ORD100048,2024-02-18,CUST4152,Grocery,Tea 1Kg,1,23850,23850,Upi,West Bengal,India,2
+ORD100049,2024-02-19,CUST2585,Grocery,Rice 5Kg,3,23611,70833,Debit Card,Gujarat,India,2
+ORD100050,2024-02-20,CUST4943,Fashion,Shoes,3,22242,66726,Upi,Delhi,India,2
+ORD100051,2024-02-21,CUST8555,Fashion,Jacket,4,1188,4752,Debit Card,West Bengal,India,2
+ORD100052,2024-02-22,CUST4073,Grocery,Atta 10Kg,4,16333,65332,Upi,Delhi,India,2
+ORD100053,2024-02-23,CUST2021,Grocery,Atta 10Kg,3,7624,22872,Cash On Delivery,Gujarat,India,2
+ORD100054,2024-02-24,CUST4843,Home & Kitchen,Mixer Grinder,3,26631,79893,Upi,Maharashtra,India,2
+ORD100055,2024-02-25,CUST8989,Fashion,Shoes,4,18839,75356,Cash On Delivery,Delhi,India,2
+ORD100056,2024-02-26,CUST7873,Fashion,Shoes,1,5976,5976,Upi,West Bengal,India,2
+ORD100057,2024-02-27,CUST6675,Beauty,Hair Dryer,2,6542,13084,Upi,Delhi,India,2
+ORD100058,2024-02-28,CUST1161,Fashion,T-Shirt,4,21057,84228,Cash On Delivery,Delhi,India,2
+ORD100059,2024-02-29,CUST5297,Electronics,Smartphone,4,18459,73836,Upi,Karnataka,India,2
+ORD100060,2024-03-01,CUST1995,Electronics,Tablet,5,16700,83500,Cash On Delivery,Gujarat,India,3
+ORD100061,2024-03-02,CUST8629,Beauty,Lipstick,5,27544,137720,Credit Card,West Bengal,India,3
+ORD100062,2024-03-03,CUST2016,Home & Kitchen,Cookware Set,3,22004,66012,Upi,Maharashtra,India,3
+ORD100063,2024-03-04,CUST8869,Fashion,Shoes,1,17362,17362,Debit Card,Rajasthan,India,3
+ORD100064,2024-03-05,CUST7439,Electronics,Smartphone,4,27712,110848,Cash On Delivery,Rajasthan,India,3
+ORD100065,2024-03-06,CUST8892,Fashion,Jacket,1,9105,9105,Cash On Delivery,Gujarat,India,3
+ORD100066,2024-03-07,CUST7863,Electronics,Laptop,1,27624,27624,Upi,Maharashtra,India,3
+ORD100067,2024-03-08,CUST8916,Electronics,Smartwatch,4,24417,97668,Debit Card,Rajasthan,India,3
+ORD100068,2024-03-09,CUST9529,Home & Kitchen,Cookware Set,2,18293,36586,Credit Card,Gujarat,India,3
+ORD100069,2024-03-10,CUST1878,Home & Kitchen,Cookware Set,4,18479,73916,Upi,Delhi,India,3
+ORD100070,2024-03-11,CUST5887,Beauty,Perfume,1,7117,7117,Debit Card,Maharashtra,India,3
+ORD100071,2024-03-12,CUST5859,Electronics,Laptop,4,21967,87868,Cash On Delivery,Gujarat,India,3
+ORD100072,2024-03-13,CUST7331,Fashion,Shoes,3,2630,7890,Cash On Delivery,Delhi,India,3
+ORD100073,2024-03-14,CUST9571,Fashion,Shoes,2,16605,33210,Debit Card,Gujarat,India,3
+ORD100074,2024-03-15,CUST9684,Beauty,Perfume,1,24451,24451,Credit Card,Gujarat,India,3
+ORD100075,2024-03-16,CUST8208,Beauty,Hair Dryer,4,10526,42104,Upi,Karnataka,India,3
+ORD100076,2024-03-17,CUST6276,Electronics,Smartwatch,3,26945,80835,Debit Card,Delhi,India,3
+ORD100077,2024-03-18,CUST3062,Fashion,T-Shirt,5,12094,60470,Debit Card,West Bengal,India,3
+ORD100078,2024-03-19,CUST1064,Beauty,Lipstick,2,10381,20762,Debit Card,Gujarat,India,3
+ORD100079,2024-03-20,CUST9006,Grocery,Tea 1Kg,1,25858,25858,Cash On Delivery,Delhi,India,3
+ORD100080,2024-03-21,CUST3568,Home & Kitchen,Bedsheet,3,12932,38796,Credit Card,West Bengal,India,3
+ORD100081,2024-03-22,CUST6463,Electronics,Tablet,1,7205,7205,Debit Card,West Bengal,India,3
+ORD100082,2024-03-23,CUST3027,Home & Kitchen,Mixer Grinder,4,15340,61360,Cash On Delivery,Karnataka,India,3
+ORD100083,2024-03-24,CUST3695,Fashion,Shoes,4,1155,4620,Upi,Gujarat,India,3
+ORD100084,2024-03-25,CUST6258,Beauty,Lipstick,1,6763,6763,Upi,Gujarat,India,3
+ORD100085,2024-03-26,CUST6618,Home & Kitchen,Water Bottle,4,11017,44068,Cash On Delivery,Gujarat,India,3
+ORD100086,2024-03-27,CUST7736,Home & Kitchen,Bedsheet,3,12673,38019,Upi,Rajasthan,India,3
+ORD100087,2024-03-28,CUST1391,Fashion,Jeans,5,729,3645,Debit Card,West Bengal,India,3
+ORD100088,2024-03-29,CUST6892,Electronics,Headphones,2,20175,40350,Cash On Delivery,Karnataka,India,3
+ORD100089,2024-03-30,CUST4561,Home & Kitchen,Water Bottle,2,574,1148,Upi,West Bengal,India,3
+ORD100090,2024-03-31,CUST7184,Grocery,Rice 5Kg,4,29252,117008,Cash On Delivery,Rajasthan,India,3
+ORD100091,2024-04-01,CUST4099,Electronics,Tablet,2,4014,8028,Upi,Rajasthan,India,4
+ORD100092,2024-04-02,CUST7278,Beauty,Face Cream,1,24803,24803,Debit Card,Gujarat,India,4
+ORD100093,2024-04-03,CUST9392,Grocery,Rice 5Kg,1,22127,22127,Cash On Delivery,Karnataka,India,4
+ORD100094,2024-04-04,CUST4104,Fashion,T-Shirt,3,19665,58995,Credit Card,Delhi,India,4
+ORD100095,2024-04-05,CUST8215,Home & Kitchen,Mixer Grinder,2,11283,22566,Upi,Rajasthan,India,4
+ORD100096,2024-04-06,CUST3454,Electronics,Smartwatch,4,6095,24380,Cash On Delivery,Delhi,India,4
+ORD100097,2024-04-07,CUST9996,Electronics,Smartphone,4,9699,38796,Debit Card,Maharashtra,India,4
+ORD100098,2024-04-08,CUST3731,Grocery,Atta 10Kg,5,15763,78815,Upi,West Bengal,India,4
+ORD100099,2024-04-09,CUST9154,Electronics,Tablet,4,17974,71896,Cash On Delivery,Rajasthan,India,4
+ORD100100,2024-04-10,CUST6056,Beauty,Face Cream,4,20537,82148,Credit Card,Rajasthan,India,4
+ORD100101,2024-04-11,CUST9110,Electronics,Smartwatch,4,481,1924,Upi,West Bengal,India,4
+ORD100102,2024-04-12,CUST4840,Beauty,Hair Dryer,5,28604,143020,Upi,Delhi,India,4
+ORD100103,2024-04-13,CUST2028,Electronics,Smartphone,3,1429,4287,Credit Card,Karnataka,India,4
+ORD100104,2024-04-14,CUST8385,Fashion,T-Shirt,2,1439,2878,Debit Card,Delhi,India,4
+ORD100105,2024-04-15,CUST1502,Home & Kitchen,Mixer Grinder,2,28644,57288,Debit Card,Maharashtra,India,4
+ORD100106,2024-04-16,CUST7910,Beauty,Hair Dryer,4,13805,55220,Debit Card,Karnataka,India,4
+ORD100107,2024-04-17,CUST7938,Grocery,Tea 1Kg,2,11185,22370,Debit Card,Karnataka,India,4
+ORD100108,2024-04-18,CUST5488,Home & Kitchen,Mixer Grinder,1,9406,9406,Cash On Delivery,West Bengal,India,4
+ORD100109,2024-04-19,CUST1206,Grocery,Atta 10Kg,2,15752,31504,Debit Card,Gujarat,India,4
+ORD100110,2024-04-20,CUST6134,Home & Kitchen,Cookware Set,2,28825,57650,Credit Card,Maharashtra,India,4
+ORD100111,2024-04-21,CUST6977,Electronics,Tablet,3,10255,30765,Credit Card,Maharashtra,India,4
+ORD100112,2024-04-22,CUST8721,Fashion,T-Shirt,1,13798,13798,Upi,Rajasthan,India,4
+ORD100113,2024-04-23,CUST8035,Grocery,Rice 5Kg,2,8325,16650,Credit Card,Karnataka,India,4
+ORD100114,2024-04-24,CUST2484,Home & Kitchen,Water Bottle,1,28008,28008,Upi,Maharashtra,India,4
+ORD100115,2024-04-25,CUST8858,Grocery,Rice 5Kg,5,19814,99070,Debit Card,Maharashtra,India,4
+ORD100116,2024-04-26,CUST1863,Fashion,Shoes,5,3373,16865,Cash On Delivery,Rajasthan,India,4
+ORD100117,2024-04-27,CUST3790,Beauty,Hair Dryer,2,7961,15922,Upi,West Bengal,India,4
+ORD100118,2024-04-28,CUST8408,Beauty,Face Cream,3,3912,11736,Credit Card,Rajasthan,India,4
+ORD100119,2024-04-29,CUST9755,Electronics,Smartwatch,1,27923,27923,Debit Card,Gujarat,India,4
+ORD100120,2024-04-30,CUST6116,Grocery,Atta 10Kg,4,5792,23168,Upi,Maharashtra,India,4
+ORD100121,2024-05-01,CUST7019,Electronics,Headphones,4,14637,58548,Debit Card,Gujarat,India,5
+ORD100122,2024-05-02,CUST2757,Beauty,Lipstick,2,25737,51474,Upi,Rajasthan,India,5
+ORD100123,2024-05-03,CUST8574,Beauty,Face Cream,2,6671,13342,Credit Card,Gujarat,India,5
+ORD100124,2024-05-04,CUST7374,Fashion,T-Shirt,5,1377,6885,Cash On Delivery,Maharashtra,India,5
+ORD100125,2024-05-05,CUST7892,Grocery,Cooking Oil,5,27798,138990,Cash On Delivery,Karnataka,India,5
+ORD100126,2024-05-06,CUST2678,Beauty,Lipstick,2,27187,54374,Debit Card,Delhi,India,5
+ORD100127,2024-05-07,CUST4242,Grocery,Rice 5Kg,3,9406,28218,Cash On Delivery,West Bengal,India,5
+ORD100128,2024-05-08,CUST5636,Electronics,Tablet,3,4346,13038,Upi,Karnataka,India,5
+ORD100129,2024-05-09,CUST2059,Grocery,Cooking Oil,3,14313,42939,Upi,Rajasthan,India,5
+ORD100130,2024-05-10,CUST7668,Fashion,Jacket,5,28411,142055,Debit Card,Rajasthan,India,5
+ORD100131,2024-05-11,CUST4157,Grocery,Atta 10Kg,4,23895,95580,Cash On Delivery,Gujarat,India,5
+ORD100132,2024-05-12,CUST6915,Home & Kitchen,Cookware Set,1,11028,11028,Credit Card,Karnataka,India,5
+ORD100133,2024-05-13,CUST3693,Electronics,Headphones,4,16145,64580,Debit Card,West Bengal,India,5
+ORD100134,2024-05-14,CUST4627,Electronics,Laptop,5,6641,33205,Cash On Delivery,Karnataka,India,5
+ORD100135,2024-05-15,CUST6450,Fashion,Shoes,1,21875,21875,Credit Card,West Bengal,India,5
+ORD100136,2024-05-16,CUST2663,Beauty,Face Cream,5,23453,117265,Upi,Karnataka,India,5
+ORD100137,2024-05-17,CUST6592,Home & Kitchen,Mixer Grinder,2,29855,59710,Upi,Gujarat,India,5
+ORD100138,2024-05-18,CUST8392,Grocery,Cooking Oil,1,3425,3425,Upi,Delhi,India,5
+ORD100139,2024-05-19,CUST2306,Fashion,Shoes,3,3883,11649,Debit Card,Karnataka,India,5
+ORD100140,2024-05-20,CUST7776,Home & Kitchen,Mixer Grinder,2,5210,10420,Credit Card,Karnataka,India,5
+ORD100141,2024-05-21,CUST6864,Electronics,Laptop,5,26360,131800,Cash On Delivery,Delhi,India,5
+ORD100142,2024-05-22,CUST8526,Home & Kitchen,Mixer Grinder,5,16536,82680,Cash On Delivery,Rajasthan,India,5
+ORD100143,2024-05-23,CUST9901,Grocery,Atta 10Kg,3,1187,3561,Credit Card,Delhi,India,5
+ORD100144,2024-05-24,CUST6575,Electronics,Smartwatch,5,25216,126080,Upi,Rajasthan,India,5
+ORD100145,2024-05-25,CUST6530,Home & Kitchen,Water Bottle,3,4558,13674,Credit Card,West Bengal,India,5
+ORD100146,2024-05-26,CUST5413,Beauty,Hair Dryer,5,28784,143920,Debit Card,Maharashtra,India,5
+ORD100147,2024-05-27,CUST4748,Fashion,Shoes,3,5899,17697,Credit Card,Gujarat,India,5
+ORD100148,2024-05-28,CUST1663,Home & Kitchen,Water Bottle,5,21685,108425,Cash On Delivery,Karnataka,India,5
+ORD100149,2024-05-29,CUST2998,Grocery,Rice 5Kg,4,14410,57640,Cash On Delivery,Maharashtra,India,5
+ORD100150,2024-05-30,CUST8994,Electronics,Headphones,1,27822,27822,Upi,Karnataka,India,5
+ORD100151,2024-05-31,CUST2495,Electronics,Tablet,2,5251,10502,Cash On Delivery,West Bengal,India,5
+ORD100152,2024-06-01,CUST4304,Beauty,Lipstick,5,27599,137995,Cash On Delivery,Rajasthan,India,6
+ORD100153,2024-06-02,CUST4763,Home & Kitchen,Bedsheet,4,2628,10512,Debit Card,Gujarat,India,6
+ORD100154,2024-06-03,CUST6232,Home & Kitchen,Bedsheet,4,19401,77604,Upi,Rajasthan,India,6
+ORD100155,2024-06-04,CUST2853,Beauty,Hair Dryer,4,861,3444,Credit Card,Karnataka,India,6
+ORD100156,2024-06-05,CUST7585,Fashion,T-Shirt,5,16036,80180,Debit Card,Maharashtra,India,6
+ORD100157,2024-06-06,CUST2291,Home & Kitchen,Cookware Set,1,26878,26878,Upi,Karnataka,India,6
+ORD100158,2024-06-07,CUST4581,Fashion,Jacket,4,10954,43816,Upi,Rajasthan,India,6
+ORD100159,2024-06-08,CUST8554,Fashion,Jeans,5,22683,113415,Upi,Karnataka,India,6
+ORD100160,2024-06-09,CUST8280,Electronics,Smartwatch,4,20621,82484,Credit Card,Rajasthan,India,6
+ORD100161,2024-06-10,CUST2636,Electronics,Smartwatch,4,9915,39660,Upi,Gujarat,India,6
+ORD100162,2024-06-11,CUST4696,Fashion,T-Shirt,2,26377,52754,Upi,Maharashtra,India,6
+ORD100163,2024-06-12,CUST1698,Home & Kitchen,Bedsheet,1,19080,19080,Debit Card,Delhi,India,6
+ORD100164,2024-06-13,CUST5737,Fashion,Shoes,2,3467,6934,Debit Card,Gujarat,India,6
+ORD100165,2024-06-14,CUST1854,Beauty,Hair Dryer,3,10582,31746,Cash On Delivery,Rajasthan,India,6
+ORD100166,2024-06-15,CUST9164,Grocery,Tea 1Kg,2,4307,8614,Credit Card,Maharashtra,India,6
+ORD100167,2024-06-16,CUST6855,Home & Kitchen,Mixer Grinder,3,11621,34863,Credit Card,Gujarat,India,6
+ORD100168,2024-06-17,CUST8392,Beauty,Lipstick,4,7893,31572,Debit Card,Maharashtra,India,6
+ORD100169,2024-06-18,CUST7528,Grocery,Atta 10Kg,2,23586,47172,Debit Card,Gujarat,India,6
+ORD100170,2024-06-19,CUST6249,Home & Kitchen,Cookware Set,4,22681,90724,Upi,Gujarat,India,6
+ORD100171,2024-06-20,CUST6172,Home & Kitchen,Mixer Grinder,5,20843,104215,Upi,Rajasthan,India,6
+ORD100172,2024-06-21,CUST2707,Grocery,Tea 1Kg,3,2730,8190,Credit Card,Maharashtra,India,6
+ORD100173,2024-06-22,CUST6791,Electronics,Smartwatch,5,19113,95565,Credit Card,West Bengal,India,6
+ORD100174,2024-06-23,CUST6535,Fashion,T-Shirt,4,7540,30160,Cash On Delivery,Karnataka,India,6
+ORD100175,2024-06-24,CUST5931,Fashion,T-Shirt,4,22361,89444,Cash On Delivery,West Bengal,India,6
+ORD100176,2024-06-25,CUST4510,Grocery,Atta 10Kg,2,5379,10758,Debit Card,Delhi,India,6
+ORD100177,2024-06-26,CUST1202,Beauty,Face Cream,3,10345,31035,Upi,Gujarat,India,6
+ORD100178,2024-06-27,CUST5218,Home & Kitchen,Cookware Set,3,17273,51819,Debit Card,West Bengal,India,6
+ORD100179,2024-06-28,CUST9958,Electronics,Headphones,1,29994,29994,Upi,West Bengal,India,6
+ORD100180,2024-06-29,CUST5389,Fashion,Shoes,3,6606,19818,Upi,Karnataka,India,6
+ORD100181,2024-06-30,CUST3327,Fashion,Jacket,1,10540,10540,Cash On Delivery,Karnataka,India,6
+ORD100182,2024-07-01,CUST9004,Grocery,Tea 1Kg,4,12611,50444,Debit Card,Rajasthan,India,7
+ORD100183,2024-07-02,CUST3931,Home & Kitchen,Bedsheet,5,24454,122270,Cash On Delivery,Rajasthan,India,7
+ORD100184,2024-07-03,CUST8777,Grocery,Atta 10Kg,3,26915,80745,Credit Card,Rajasthan,India,7
+ORD100185,2024-07-04,CUST1197,Grocery,Rice 5Kg,5,29381,146905,Credit Card,Gujarat,India,7
+ORD100186,2024-07-05,CUST8125,Beauty,Face Cream,5,23377,116885,Cash On Delivery,Gujarat,India,7
+ORD100187,2024-07-06,CUST2930,Grocery,Rice 5Kg,5,22940,114700,Credit Card,Gujarat,India,7
+ORD100188,2024-07-07,CUST7287,Grocery,Rice 5Kg,5,2585,12925,Upi,West Bengal,India,7
+ORD100189,2024-07-08,CUST9800,Fashion,T-Shirt,3,21176,63528,Debit Card,Karnataka,India,7
+ORD100190,2024-07-09,CUST5282,Grocery,Tea 1Kg,5,24545,122725,Cash On Delivery,Rajasthan,India,7
+ORD100191,2024-07-10,CUST3511,Home & Kitchen,Water Bottle,4,793,3172,Upi,Delhi,India,7
+ORD100192,2024-07-11,CUST1659,Grocery,Tea 1Kg,5,20077,100385,Upi,Gujarat,India,7
+ORD100193,2024-07-12,CUST3811,Home & Kitchen,Mixer Grinder,1,20784,20784,Cash On Delivery,Maharashtra,India,7
+ORD100194,2024-07-13,CUST8098,Electronics,Smartphone,1,17155,17155,Upi,West Bengal,India,7
+ORD100195,2024-07-14,CUST7546,Home & Kitchen,Cookware Set,2,28871,57742,Cash On Delivery,Karnataka,India,7
+ORD100196,2024-07-15,CUST2986,Grocery,Tea 1Kg,3,29630,88890,Cash On Delivery,Gujarat,India,7
+ORD100197,2024-07-16,CUST9338,Beauty,Hair Dryer,1,16662,16662,Cash On Delivery,Maharashtra,India,7
+ORD100198,2024-07-17,CUST3911,Grocery,Atta 10Kg,5,7283,36415,Debit Card,Maharashtra,India,7
+ORD100199,2024-07-18,CUST2734,Grocery,Tea 1Kg,5,19855,99275,Debit Card,Maharashtra,India,7
+ORD100200,2024-07-19,CUST2843,Beauty,Face Cream,5,28282,141410,Cash On Delivery,Delhi,India,7
+ORD100201,2024-07-20,CUST9680,Electronics,Smartwatch,4,23004,92016,Debit Card,Gujarat,India,7
+ORD100202,2024-07-21,CUST3976,Fashion,Jeans,4,12886,51544,Debit Card,Delhi,India,7
+ORD100203,2024-07-22,CUST2959,Beauty,Lipstick,3,28338,85014,Upi,Gujarat,India,7
+ORD100204,2024-07-23,CUST6759,Grocery,Cooking Oil,2,9965,19930,Upi,Karnataka,India,7
+ORD100205,2024-07-24,CUST7694,Electronics,Smartphone,2,27769,55538,Upi,Delhi,India,7
+ORD100206,2024-07-25,CUST3385,Fashion,Shoes,4,26389,105556,Upi,Maharashtra,India,7
+ORD100207,2024-07-26,CUST5736,Electronics,Laptop,2,14289,28578,Cash On Delivery,West Bengal,India,7
+ORD100208,2024-07-27,CUST2802,Fashion,Jeans,2,27197,54394,Upi,West Bengal,India,7
+ORD100209,2024-07-28,CUST9155,Fashion,Shoes,3,17105,51315,Cash On Delivery,Maharashtra,India,7
+ORD100210,2024-07-29,CUST9120,Home & Kitchen,Bedsheet,1,22368,22368,Credit Card,Delhi,India,7
+ORD100211,2024-07-30,CUST7616,Fashion,Shoes,1,12089,12089,Cash On Delivery,Rajasthan,India,7
+ORD100212,2024-07-31,CUST6534,Fashion,T-Shirt,4,28135,112540,Credit Card,Delhi,India,7
+ORD100213,2024-08-01,CUST5061,Electronics,Smartwatch,3,26343,79029,Debit Card,Rajasthan,India,8
+ORD100214,2024-08-02,CUST1262,Electronics,Tablet,1,11382,11382,Upi,Gujarat,India,8
+ORD100215,2024-08-03,CUST7287,Grocery,Cooking Oil,5,16197,80985,Cash On Delivery,Rajasthan,India,8
+ORD100216,2024-08-04,CUST9815,Fashion,Jacket,3,29127,87381,Credit Card,Rajasthan,India,8
+ORD100217,2024-08-05,CUST3049,Beauty,Face Cream,4,28644,114576,Credit Card,West Bengal,India,8
+ORD100218,2024-08-06,CUST6423,Home & Kitchen,Mixer Grinder,5,21142,105710,Debit Card,Karnataka,India,8
+ORD100219,2024-08-07,CUST5548,Home & Kitchen,Bedsheet,3,13918,41754,Upi,Karnataka,India,8
+ORD100220,2024-08-08,CUST4108,Beauty,Face Cream,5,1576,7880,Debit Card,Delhi,India,8
+ORD100221,2024-08-09,CUST8158,Beauty,Perfume,5,29925,149625,Debit Card,Karnataka,India,8
+ORD100222,2024-08-10,CUST8400,Electronics,Smartwatch,2,23937,47874,Cash On Delivery,Maharashtra,India,8
+ORD100223,2024-08-11,CUST4170,Grocery,Atta 10Kg,1,6219,6219,Cash On Delivery,Delhi,India,8
+ORD100224,2024-08-12,CUST3255,Home & Kitchen,Cookware Set,3,2720,8160,Upi,Gujarat,India,8
+ORD100225,2024-08-13,CUST2154,Beauty,Perfume,2,2359,4718,Upi,West Bengal,India,8
+ORD100226,2024-08-14,CUST5499,Fashion,Jacket,2,19233,38466,Credit Card,Gujarat,India,8
+ORD100227,2024-08-15,CUST7295,Fashion,T-Shirt,1,20073,20073,Upi,West Bengal,India,8
+ORD100228,2024-08-16,CUST7197,Fashion,Jeans,3,24486,73458,Cash On Delivery,Rajasthan,India,8
+ORD100229,2024-08-17,CUST2648,Beauty,Face Cream,2,2379,4758,Cash On Delivery,West Bengal,India,8
+ORD100230,2024-08-18,CUST6539,Fashion,Shoes,3,23905,71715,Credit Card,West Bengal,India,8
+ORD100231,2024-08-19,CUST5199,Grocery,Cooking Oil,5,14737,73685,Credit Card,Rajasthan,India,8
+ORD100232,2024-08-20,CUST9445,Fashion,Jacket,1,5236,5236,Upi,Karnataka,India,8
+ORD100233,2024-08-21,CUST3557,Fashion,T-Shirt,3,16287,48861,Cash On Delivery,West Bengal,India,8
+ORD100234,2024-08-22,CUST6592,Home & Kitchen,Bedsheet,4,27723,110892,Cash On Delivery,Rajasthan,India,8
+ORD100235,2024-08-23,CUST1098,Home & Kitchen,Cookware Set,2,14426,28852,Cash On Delivery,Karnataka,India,8
+ORD100236,2024-08-24,CUST3200,Beauty,Face Cream,3,12893,38679,Cash On Delivery,West Bengal,India,8
+ORD100237,2024-08-25,CUST3961,Home & Kitchen,Cookware Set,5,11366,56830,Cash On Delivery,Karnataka,India,8
+ORD100238,2024-08-26,CUST5973,Beauty,Lipstick,5,29611,148055,Debit Card,Rajasthan,India,8
+ORD100239,2024-08-27,CUST5433,Electronics,Smartphone,2,1030,2060,Upi,Karnataka,India,8
+ORD100240,2024-08-28,CUST3869,Beauty,Lipstick,3,9718,29154,Upi,Delhi,India,8
+ORD100241,2024-08-29,CUST1956,Fashion,Shoes,5,12648,63240,Credit Card,Maharashtra,India,8
+ORD100242,2024-08-30,CUST9352,Fashion,Jacket,3,25174,75522,Debit Card,Rajasthan,India,8
+ORD100243,2024-08-31,CUST6699,Fashion,Jeans,1,13089,13089,Upi,West Bengal,India,8
+ORD100244,2024-09-01,CUST7944,Fashion,T-Shirt,2,2297,4594,Upi,Delhi,India,9
+ORD100245,2024-09-02,CUST5493,Beauty,Face Cream,5,2957,14785,Debit Card,Maharashtra,India,9
+ORD100246,2024-09-03,CUST5911,Grocery,Atta 10Kg,5,28762,143810,Debit Card,Gujarat,India,9
+ORD100247,2024-09-04,CUST4987,Home & Kitchen,Bedsheet,5,8199,40995,Cash On Delivery,West Bengal,India,9
+ORD100248,2024-09-05,CUST7015,Electronics,Smartwatch,2,25479,50958,Cash On Delivery,West Bengal,India,9
+ORD100249,2024-09-06,CUST2218,Home & Kitchen,Water Bottle,2,19562,39124,Cash On Delivery,Maharashtra,India,9
+ORD100250,2024-09-07,CUST5496,Electronics,Tablet,1,13693,13693,Cash On Delivery,Rajasthan,India,9
+ORD100251,2024-09-08,CUST5735,Fashion,Jacket,1,7910,7910,Cash On Delivery,Karnataka,India,9
+ORD100252,2024-09-09,CUST5555,Electronics,Tablet,5,15461,77305,Credit Card,Karnataka,India,9
+ORD100253,2024-09-10,CUST9050,Fashion,Jeans,3,2174,6522,Credit Card,Karnataka,India,9
+ORD100254,2024-09-11,CUST4446,Home & Kitchen,Water Bottle,2,8096,16192,Credit Card,West Bengal,India,9
+ORD100255,2024-09-12,CUST2045,Fashion,T-Shirt,5,5547,27735,Cash On Delivery,Delhi,India,9
+ORD100256,2024-09-13,CUST7893,Home & Kitchen,Cookware Set,3,5760,17280,Cash On Delivery,West Bengal,India,9
+ORD100257,2024-09-14,CUST2693,Home & Kitchen,Mixer Grinder,3,27917,83751,Cash On Delivery,Gujarat,India,9
+ORD100258,2024-09-15,CUST4436,Beauty,Lipstick,5,18033,90165,Cash On Delivery,Gujarat,India,9
+ORD100259,2024-09-16,CUST9754,Electronics,Smartwatch,2,22748,45496,Upi,Gujarat,India,9
+ORD100260,2024-09-17,CUST6895,Beauty,Perfume,2,24684,49368,Debit Card,Maharashtra,India,9
+ORD100261,2024-09-18,CUST4354,Beauty,Face Cream,5,29255,146275,Upi,Karnataka,India,9
+ORD100262,2024-09-19,CUST1225,Grocery,Rice 5Kg,1,7545,7545,Cash On Delivery,West Bengal,India,9
+ORD100263,2024-09-20,CUST5893,Home & Kitchen,Mixer Grinder,1,29464,29464,Upi,West Bengal,India,9
+ORD100264,2024-09-21,CUST8022,Home & Kitchen,Water Bottle,2,18674,37348,Debit Card,Maharashtra,India,9
+ORD100265,2024-09-22,CUST6600,Electronics,Smartphone,2,29837,59674,Credit Card,Rajasthan,India,9
+ORD100266,2024-09-23,CUST8996,Home & Kitchen,Mixer Grinder,2,13340,26680,Credit Card,West Bengal,India,9
+ORD100267,2024-09-24,CUST8683,Electronics,Laptop,2,297,594,Upi,Delhi,India,9
+ORD100268,2024-09-25,CUST5642,Fashion,Jacket,4,4866,19464,Debit Card,Gujarat,India,9
+ORD100269,2024-09-26,CUST8679,Beauty,Perfume,1,5255,5255,Cash On Delivery,West Bengal,India,9
+ORD100270,2024-09-27,CUST9208,Home & Kitchen,Bedsheet,4,13371,53484,Debit Card,Rajasthan,India,9
+ORD100271,2024-09-28,CUST8339,Grocery,Atta 10Kg,4,15139,60556,Debit Card,Rajasthan,India,9
+ORD100272,2024-09-29,CUST3205,Grocery,Rice 5Kg,2,20451,40902,Upi,Gujarat,India,9
+ORD100273,2024-09-30,CUST2069,Home & Kitchen,Mixer Grinder,3,10383,31149,Upi,Karnataka,India,9
+ORD100274,2024-10-01,CUST4444,Home & Kitchen,Water Bottle,3,21453,64359,Debit Card,Karnataka,India,10
+ORD100275,2024-10-02,CUST2060,Electronics,Headphones,2,5746,11492,Upi,Delhi,India,10
+ORD100276,2024-10-03,CUST3327,Beauty,Perfume,4,28433,113732,Cash On Delivery,Karnataka,India,10
+ORD100277,2024-10-04,CUST4420,Electronics,Tablet,5,7439,37195,Debit Card,Maharashtra,India,10
+ORD100278,2024-10-05,CUST1301,Home & Kitchen,Cookware Set,4,29339,117356,Cash On Delivery,Rajasthan,India,10
+ORD100279,2024-10-06,CUST1606,Home & Kitchen,Bedsheet,3,11316,33948,Debit Card,Delhi,India,10
+ORD100280,2024-10-07,CUST4170,Home & Kitchen,Bedsheet,1,27043,27043,Debit Card,Maharashtra,India,10
+ORD100281,2024-10-08,CUST1699,Grocery,Tea 1Kg,4,17271,69084,Upi,Delhi,India,10
+ORD100282,2024-10-09,CUST6088,Fashion,Shoes,3,2791,8373,Cash On Delivery,Maharashtra,India,10
+ORD100283,2024-10-10,CUST1190,Beauty,Hair Dryer,1,25350,25350,Debit Card,West Bengal,India,10
+ORD100284,2024-10-11,CUST1980,Grocery,Rice 5Kg,5,23913,119565,Cash On Delivery,Karnataka,India,10
+ORD100285,2024-10-12,CUST3975,Home & Kitchen,Bedsheet,3,8638,25914,Upi,Delhi,India,10
+ORD100286,2024-10-13,CUST7102,Electronics,Headphones,1,27019,27019,Cash On Delivery,Maharashtra,India,10
+ORD100287,2024-10-14,CUST2184,Home & Kitchen,Cookware Set,5,426,2130,Cash On Delivery,West Bengal,India,10
+ORD100288,2024-10-15,CUST4327,Grocery,Rice 5Kg,4,11949,47796,Credit Card,Gujarat,India,10
+ORD100289,2024-10-16,CUST4394,Beauty,Lipstick,4,24128,96512,Credit Card,Delhi,India,10
+ORD100290,2024-10-17,CUST9319,Fashion,Jacket,1,11164,11164,Credit Card,Gujarat,India,10
+ORD100291,2024-10-18,CUST2816,Beauty,Lipstick,4,26597,106388,Cash On Delivery,Gujarat,India,10
+ORD100292,2024-10-19,CUST6854,Grocery,Tea 1Kg,2,24965,49930,Upi,Maharashtra,India,10
+ORD100293,2024-10-20,CUST7709,Beauty,Lipstick,2,12528,25056,Debit Card,Delhi,India,10
+ORD100294,2024-10-21,CUST1569,Home & Kitchen,Cookware Set,3,7296,21888,Upi,Rajasthan,India,10
+ORD100295,2024-10-22,CUST6442,Grocery,Tea 1Kg,3,11301,33903,Debit Card,Delhi,India,10
+ORD100296,2024-10-23,CUST2895,Electronics,Tablet,5,22633,113165,Debit Card,Gujarat,India,10
+ORD100297,2024-10-24,CUST3733,Fashion,Jeans,1,5979,5979,Upi,Karnataka,India,10
+ORD100298,2024-10-25,CUST4863,Beauty,Lipstick,2,22624,45248,Debit Card,Rajasthan,India,10
+ORD100299,2024-10-26,CUST8455,Grocery,Atta 10Kg,1,28476,28476,Credit Card,West Bengal,India,10
+ORD100300,2024-10-27,CUST5014,Fashion,Shoes,4,17043,68172,Debit Card,Maharashtra,India,10
+ORD100301,2024-10-28,CUST2686,Electronics,Headphones,4,29716,118864,Debit Card,Gujarat,India,10
+ORD100302,2024-10-29,CUST4009,Electronics,Headphones,3,2654,7962,Debit Card,Delhi,India,10
+ORD100303,2024-10-30,CUST8806,Home & Kitchen,Water Bottle,4,21180,84720,Debit Card,Rajasthan,India,10
+ORD100304,2024-10-31,CUST1154,Beauty,Hair Dryer,3,8987,26961,Upi,Maharashtra,India,10
+ORD100305,2024-11-01,CUST2409,Home & Kitchen,Cookware Set,1,20762,20762,Debit Card,Rajasthan,India,11
+ORD100306,2024-11-02,CUST1784,Beauty,Hair Dryer,3,24464,73392,Cash On Delivery,Karnataka,India,11
+ORD100307,2024-11-03,CUST9096,Grocery,Atta 10Kg,1,11202,11202,Debit Card,Karnataka,India,11
+ORD100308,2024-11-04,CUST8560,Electronics,Tablet,3,19574,58722,Credit Card,Karnataka,India,11
+ORD100309,2024-11-05,CUST8343,Grocery,Rice 5Kg,4,10904,43616,Upi,Rajasthan,India,11
+ORD100310,2024-11-06,CUST8206,Electronics,Tablet,1,14165,14165,Upi,Delhi,India,11
+ORD100311,2024-11-07,CUST6596,Beauty,Face Cream,3,27157,81471,Upi,Rajasthan,India,11
+ORD100312,2024-11-08,CUST6801,Fashion,Jeans,4,17571,70284,Upi,Gujarat,India,11
+ORD100313,2024-11-09,CUST3806,Grocery,Cooking Oil,1,19782,19782,Credit Card,West Bengal,India,11
+ORD100314,2024-11-10,CUST1537,Electronics,Tablet,3,978,2934,Credit Card,Rajasthan,India,11
+ORD100315,2024-11-11,CUST6986,Grocery,Atta 10Kg,5,17932,89660,Upi,Karnataka,India,11
+ORD100316,2024-11-12,CUST2841,Beauty,Lipstick,1,7356,7356,Upi,West Bengal,India,11
+ORD100317,2024-11-13,CUST9716,Grocery,Rice 5Kg,4,25834,103336,Credit Card,Maharashtra,India,11
+ORD100318,2024-11-14,CUST7971,Electronics,Smartwatch,4,6781,27124,Credit Card,Karnataka,India,11
+ORD100319,2024-11-15,CUST6625,Electronics,Headphones,2,29691,59382,Credit Card,West Bengal,India,11
+ORD100320,2024-11-16,CUST3950,Grocery,Atta 10Kg,4,29376,117504,Debit Card,West Bengal,India,11
+ORD100321,2024-11-17,CUST8992,Fashion,Jeans,4,971,3884,Cash On Delivery,Rajasthan,India,11
+ORD100322,2024-11-18,CUST5780,Grocery,Atta 10Kg,4,393,1572,Debit Card,Gujarat,India,11
+ORD100323,2024-11-19,CUST3368,Electronics,Smartphone,1,28569,28569,Upi,Maharashtra,India,11
+ORD100324,2024-11-20,CUST7655,Fashion,Shoes,2,4578,9156,Cash On Delivery,Delhi,India,11
+ORD100325,2024-11-21,CUST9173,Home & Kitchen,Mixer Grinder,1,10532,10532,Upi,West Bengal,India,11
+ORD100326,2024-11-22,CUST5495,Beauty,Lipstick,3,18039,54117,Cash On Delivery,West Bengal,India,11
+ORD100327,2024-11-23,CUST7002,Electronics,Smartwatch,5,21677,108385,Credit Card,Maharashtra,India,11
+ORD100328,2024-11-24,CUST7614,Electronics,Headphones,4,5187,20748,Credit Card,Maharashtra,India,11
+ORD100329,2024-11-25,CUST6919,Grocery,Rice 5Kg,1,17287,17287,Credit Card,Rajasthan,India,11
+ORD100330,2024-11-26,CUST1853,Beauty,Hair Dryer,1,18384,18384,Upi,West Bengal,India,11
+ORD100331,2024-11-27,CUST5146,Electronics,Smartphone,5,3066,15330,Debit Card,Delhi,India,11
+ORD100332,2024-11-28,CUST4769,Electronics,Smartwatch,3,1717,5151,Debit Card,Delhi,India,11
+ORD100333,2024-11-29,CUST1574,Grocery,Atta 10Kg,5,28872,144360,Debit Card,Karnataka,India,11
+ORD100334,2024-11-30,CUST2148,Fashion,Jacket,5,22716,113580,Cash On Delivery,West Bengal,India,11
+ORD100335,2024-12-01,CUST7293,Grocery,Tea 1Kg,1,28148,28148,Debit Card,Gujarat,India,12
+ORD100336,2024-12-02,CUST7457,Fashion,Shoes,5,4815,24075,Debit Card,Maharashtra,India,12
+ORD100337,2024-12-03,CUST8509,Grocery,Atta 10Kg,1,22390,22390,Credit Card,Karnataka,India,12
+ORD100338,2024-12-04,CUST5777,Home & Kitchen,Cookware Set,4,17573,70292,Debit Card,Maharashtra,India,12
+ORD100339,2024-12-05,CUST4854,Fashion,Shoes,5,1974,9870,Cash On Delivery,Karnataka,India,12
+ORD100340,2024-12-06,CUST3491,Fashion,T-Shirt,1,16915,16915,Debit Card,Gujarat,India,12
+ORD100341,2024-12-07,CUST4124,Electronics,Laptop,5,20784,103920,Credit Card,Gujarat,India,12
+ORD100342,2024-12-08,CUST6691,Beauty,Perfume,5,9301,46505,Debit Card,Gujarat,India,12
+ORD100343,2024-12-09,CUST4051,Electronics,Smartphone,4,17354,69416,Credit Card,Karnataka,India,12
+ORD100344,2024-12-10,CUST1004,Beauty,Face Cream,2,1828,3656,Debit Card,Rajasthan,India,12
+ORD100345,2024-12-11,CUST6222,Home & Kitchen,Mixer Grinder,1,28869,28869,Debit Card,Karnataka,India,12
+ORD100346,2024-12-12,CUST6315,Beauty,Face Cream,5,2198,10990,Upi,Gujarat,India,12
+ORD100347,2024-12-13,CUST5869,Grocery,Cooking Oil,1,9542,9542,Debit Card,Maharashtra,India,12
+ORD100348,2024-12-14,CUST1876,Electronics,Tablet,5,13949,69745,Credit Card,Delhi,India,12
+ORD100349,2024-12-15,CUST8027,Fashion,Jeans,5,25150,125750,Upi,Maharashtra,India,12
+ORD100350,2024-12-16,CUST5142,Home & Kitchen,Cookware Set,4,28211,112844,Cash On Delivery,Gujarat,India,12
+ORD100351,2024-12-17,CUST7966,Beauty,Perfume,4,19827,79308,Debit Card,Maharashtra,India,12
+ORD100352,2024-12-18,CUST8079,Beauty,Lipstick,2,16578,33156,Credit Card,Maharashtra,India,12
+ORD100353,2024-12-19,CUST8987,Fashion,Jacket,1,10335,10335,Cash On Delivery,Gujarat,India,12
+ORD100354,2024-12-20,CUST7799,Fashion,T-Shirt,4,6764,27056,Upi,Maharashtra,India,12
+ORD100355,2024-12-21,CUST5465,Fashion,Jeans,5,19857,99285,Credit Card,Karnataka,India,12
+ORD100356,2024-12-22,CUST1635,Fashion,Jeans,3,11446,34338,Credit Card,Delhi,India,12
+ORD100357,2024-12-23,CUST2693,Beauty,Face Cream,1,18413,18413,Cash On Delivery,West Bengal,India,12
+ORD100358,2024-12-24,CUST5752,Home & Kitchen,Water Bottle,4,26239,104956,Credit Card,Karnataka,India,12
+ORD100359,2024-12-25,CUST9311,Electronics,Tablet,1,18484,18484,Upi,Gujarat,India,12
+ORD100360,2024-12-26,CUST1830,Beauty,Perfume,3,4852,14556,Credit Card,Karnataka,India,12
+ORD100361,2024-12-27,CUST6177,Beauty,Hair Dryer,3,6791,20373,Credit Card,Delhi,India,12
+ORD100362,2024-12-28,CUST9932,Beauty,Hair Dryer,3,22852,68556,Credit Card,West Bengal,India,12
+ORD100363,2024-12-29,CUST9308,Home & Kitchen,Mixer Grinder,2,18756,37512,Credit Card,West Bengal,India,12
+ORD100364,2024-12-30,CUST6949,Fashion,T-Shirt,3,27934,83802,Cash On Delivery,Rajasthan,India,12
+ORD100365,2024-12-31,CUST3838,Home & Kitchen,Water Bottle,1,19000,19000,Upi,West Bengal,India,12
+ORD100366,2025-01-01,CUST2150,Beauty,Perfume,4,2136,8544,Cash On Delivery,West Bengal,India,1
+ORD100367,2025-01-02,CUST8560,Fashion,T-Shirt,5,16048,80240,Upi,Maharashtra,India,1
+ORD100368,2025-01-03,CUST2931,Home & Kitchen,Mixer Grinder,5,5698,28490,Debit Card,Delhi,India,1
+ORD100369,2025-01-04,CUST2664,Home & Kitchen,Cookware Set,5,24314,121570,Upi,Gujarat,India,1
+ORD100370,2025-01-05,CUST2081,Grocery,Cooking Oil,4,26332,105328,Debit Card,Karnataka,India,1
+ORD100371,2025-01-06,CUST1512,Fashion,Jeans,1,1827,1827,Debit Card,West Bengal,India,1
+ORD100372,2025-01-07,CUST8805,Grocery,Atta 10Kg,2,26962,53924,Debit Card,Karnataka,India,1
+ORD100373,2025-01-08,CUST6237,Grocery,Rice 5Kg,3,20419,61257,Cash On Delivery,Gujarat,India,1
+ORD100374,2025-01-09,CUST1559,Electronics,Laptop,3,12652,37956,Cash On Delivery,West Bengal,India,1
+ORD100375,2025-01-10,CUST4672,Fashion,T-Shirt,1,2860,2860,Credit Card,Karnataka,India,1
+ORD100376,2025-01-11,CUST8404,Beauty,Perfume,3,1340,4020,Debit Card,Gujarat,India,1
+ORD100377,2025-01-12,CUST4343,Grocery,Atta 10Kg,4,10685,42740,Credit Card,West Bengal,India,1
+ORD100378,2025-01-13,CUST5070,Beauty,Perfume,4,7884,31536,Cash On Delivery,Maharashtra,India,1
+ORD100379,2025-01-14,CUST1580,Fashion,T-Shirt,2,16083,32166,Upi,Rajasthan,India,1
+ORD100380,2025-01-15,CUST8004,Beauty,Perfume,2,27443,54886,Cash On Delivery,Karnataka,India,1
+ORD100381,2025-01-16,CUST9130,Home & Kitchen,Water Bottle,3,28264,84792,Cash On Delivery,Rajasthan,India,1
+ORD100382,2025-01-17,CUST4147,Beauty,Perfume,1,6842,6842,Upi,Gujarat,India,1
+ORD100383,2025-01-18,CUST5249,Beauty,Face Cream,3,28953,86859,Debit Card,Karnataka,India,1
+ORD100384,2025-01-19,CUST2679,Fashion,Jeans,5,20842,104210,Cash On Delivery,Maharashtra,India,1
+ORD100385,2025-01-20,CUST4506,Fashion,T-Shirt,1,2584,2584,Upi,Maharashtra,India,1
+ORD100386,2025-01-21,CUST8253,Beauty,Perfume,3,2690,8070,Upi,West Bengal,India,1
+ORD100387,2025-01-22,CUST3744,Grocery,Atta 10Kg,2,27303,54606,Upi,Rajasthan,India,1
+ORD100388,2025-01-23,CUST6188,Beauty,Perfume,2,22513,45026,Upi,Rajasthan,India,1
+ORD100389,2025-01-24,CUST3141,Fashion,Shoes,1,20319,20319,Cash On Delivery,Delhi,India,1
+ORD100390,2025-01-25,CUST7617,Electronics,Headphones,3,24121,72363,Upi,Gujarat,India,1
+ORD100391,2025-01-26,CUST3479,Beauty,Face Cream,4,224,896,Upi,West Bengal,India,1
+ORD100392,2025-01-27,CUST7484,Grocery,Rice 5Kg,5,18819,94095,Debit Card,Maharashtra,India,1
+ORD100393,2025-01-28,CUST8421,Electronics,Tablet,3,10633,31899,Credit Card,Maharashtra,India,1
+ORD100394,2025-01-29,CUST5452,Fashion,Shoes,3,20010,60030,Credit Card,Delhi,India,1
+ORD100395,2025-01-30,CUST6881,Fashion,T-Shirt,5,10407,52035,Upi,Gujarat,India,1
+ORD100396,2025-01-31,CUST7665,Grocery,Atta 10Kg,3,8749,26247,Cash On Delivery,Gujarat,India,1
+ORD100397,2025-02-01,CUST3849,Electronics,Laptop,2,24131,48262,Cash On Delivery,Rajasthan,India,2
+ORD100398,2025-02-02,CUST8390,Home & Kitchen,Cookware Set,2,13524,27048,Credit Card,Karnataka,India,2
+ORD100399,2025-02-03,CUST7905,Beauty,Lipstick,3,3901,11703,Debit Card,West Bengal,India,2
+ORD100400,2025-02-04,CUST3489,Grocery,Atta 10Kg,1,15792,15792,Upi,Rajasthan,India,2
+ORD100401,2025-02-05,CUST5611,Grocery,Rice 5Kg,3,13564,40692,Upi,Delhi,India,2
+ORD100402,2025-02-06,CUST3839,Electronics,Smartphone,2,15569,31138,Cash On Delivery,Karnataka,India,2
+ORD100403,2025-02-07,CUST9527,Fashion,Jacket,2,15573,31146,Cash On Delivery,Gujarat,India,2
+ORD100404,2025-02-08,CUST6878,Fashion,T-Shirt,4,1428,5712,Debit Card,Delhi,India,2
+ORD100405,2025-02-09,CUST7303,Home & Kitchen,Water Bottle,2,5145,10290,Debit Card,Gujarat,India,2
+ORD100406,2025-02-10,CUST1851,Beauty,Face Cream,4,16120,64480,Debit Card,Maharashtra,India,2
+ORD100407,2025-02-11,CUST2687,Electronics,Laptop,5,18393,91965,Credit Card,Rajasthan,India,2
+ORD100408,2025-02-12,CUST7833,Electronics,Laptop,1,2637,2637,Cash On Delivery,West Bengal,India,2
+ORD100409,2025-02-13,CUST3427,Electronics,Smartwatch,4,8018,32072,Upi,Maharashtra,India,2
+ORD100410,2025-02-14,CUST5000,Beauty,Perfume,1,5993,5993,Cash On Delivery,Karnataka,India,2
+ORD100411,2025-02-15,CUST6052,Fashion,Shoes,3,10580,31740,Upi,Delhi,India,2
+ORD100412,2025-02-16,CUST3738,Fashion,Jeans,5,10840,54200,Debit Card,Gujarat,India,2
+ORD100413,2025-02-17,CUST6732,Home & Kitchen,Mixer Grinder,1,12291,12291,Upi,Delhi,India,2
+ORD100414,2025-02-18,CUST6387,Home & Kitchen,Bedsheet,5,12380,61900,Upi,Delhi,India,2
+ORD100415,2025-02-19,CUST9002,Grocery,Rice 5Kg,4,722,2888,Cash On Delivery,Maharashtra,India,2
+ORD100416,2025-02-20,CUST6536,Electronics,Smartphone,5,16411,82055,Debit Card,Delhi,India,2
+ORD100417,2025-02-21,CUST4913,Fashion,T-Shirt,2,13400,26800,Credit Card,West Bengal,India,2
+ORD100418,2025-02-22,CUST2066,Fashion,Jacket,1,1578,1578,Cash On Delivery,Gujarat,India,2
+ORD100419,2025-02-23,CUST8723,Beauty,Lipstick,1,9283,9283,Upi,Maharashtra,India,2
+ORD100420,2025-02-24,CUST5380,Home & Kitchen,Mixer Grinder,5,13611,68055,Cash On Delivery,Gujarat,India,2
+ORD100421,2025-02-25,CUST5107,Electronics,Smartphone,3,20477,61431,Upi,Rajasthan,India,2
+ORD100422,2025-02-26,CUST6726,Fashion,T-Shirt,5,18356,91780,Upi,Gujarat,India,2
+ORD100423,2025-02-27,CUST4373,Fashion,Shoes,3,29923,89769,Cash On Delivery,Rajasthan,India,2
+ORD100424,2025-02-28,CUST9945,Fashion,T-Shirt,4,15023,60092,Credit Card,Rajasthan,India,2
+ORD100425,2025-03-01,CUST3082,Electronics,Tablet,5,11715,58575,Debit Card,Delhi,India,3
+ORD100426,2025-03-02,CUST9967,Grocery,Rice 5Kg,1,4413,4413,Credit Card,Rajasthan,India,3
+ORD100427,2025-03-03,CUST7748,Grocery,Tea 1Kg,5,12049,60245,Upi,Rajasthan,India,3
+ORD100428,2025-03-04,CUST1417,Grocery,Cooking Oil,2,10397,20794,Cash On Delivery,Maharashtra,India,3
+ORD100429,2025-03-05,CUST9306,Home & Kitchen,Bedsheet,1,8778,8778,Upi,Rajasthan,India,3
+ORD100430,2025-03-06,CUST9808,Fashion,Shoes,4,24287,97148,Debit Card,West Bengal,India,3
+ORD100431,2025-03-07,CUST4974,Electronics,Tablet,2,19843,39686,Credit Card,Gujarat,India,3
+ORD100432,2025-03-08,CUST4267,Electronics,Tablet,4,11223,44892,Cash On Delivery,Maharashtra,India,3
+ORD100433,2025-03-09,CUST1825,Fashion,Shoes,4,4066,16264,Upi,Rajasthan,India,3
+ORD100434,2025-03-10,CUST8668,Home & Kitchen,Bedsheet,1,26473,26473,Credit Card,West Bengal,India,3
+ORD100435,2025-03-11,CUST6745,Grocery,Rice 5Kg,1,22782,22782,Debit Card,Gujarat,India,3
+ORD100436,2025-03-12,CUST1412,Fashion,T-Shirt,4,14039,56156,Upi,Delhi,India,3
+ORD100437,2025-03-13,CUST8543,Fashion,T-Shirt,4,20986,83944,Cash On Delivery,Maharashtra,India,3
+ORD100438,2025-03-14,CUST8587,Beauty,Lipstick,1,27806,27806,Cash On Delivery,Maharashtra,India,3
+ORD100439,2025-03-15,CUST1728,Grocery,Cooking Oil,3,25419,76257,Upi,Delhi,India,3
+ORD100440,2025-03-16,CUST8164,Electronics,Smartwatch,2,21929,43858,Upi,Karnataka,India,3
+ORD100441,2025-03-17,CUST9867,Fashion,Jeans,4,26017,104068,Credit Card,Karnataka,India,3
+ORD100442,2025-03-18,CUST6988,Electronics,Smartwatch,4,12921,51684,Debit Card,Delhi,India,3
+ORD100443,2025-03-19,CUST3504,Fashion,Shoes,1,9944,9944,Credit Card,Delhi,India,3
+ORD100444,2025-03-20,CUST3967,Fashion,Jeans,2,11904,23808,Upi,Gujarat,India,3
+ORD100445,2025-03-21,CUST3786,Home & Kitchen,Bedsheet,5,22994,114970,Upi,West Bengal,India,3
+ORD100446,2025-03-22,CUST2122,Fashion,Jeans,4,18578,74312,Upi,Delhi,India,3
+ORD100447,2025-03-23,CUST5079,Electronics,Tablet,4,9984,39936,Credit Card,Maharashtra,India,3
+ORD100448,2025-03-24,CUST2571,Home & Kitchen,Cookware Set,1,16441,16441,Cash On Delivery,West Bengal,India,3
+ORD100449,2025-03-25,CUST6073,Fashion,T-Shirt,3,2495,7485,Upi,Rajasthan,India,3
+ORD100450,2025-03-26,CUST6104,Home & Kitchen,Cookware Set,3,12201,36603,Credit Card,West Bengal,India,3
+ORD100451,2025-03-27,CUST3143,Grocery,Cooking Oil,5,24141,120705,Credit Card,Rajasthan,India,3
+ORD100452,2025-03-28,CUST7806,Home & Kitchen,Cookware Set,2,10741,21482,Debit Card,West Bengal,India,3
+ORD100453,2025-03-29,CUST8357,Beauty,Hair Dryer,5,10959,54795,Upi,Karnataka,India,3
+ORD100454,2025-03-30,CUST4440,Beauty,Lipstick,1,24472,24472,Upi,Delhi,India,3
+ORD100455,2025-03-31,CUST4766,Home & Kitchen,Bedsheet,4,11955,47820,Upi,Rajasthan,India,3
+ORD100456,2025-04-01,CUST6644,Fashion,Jeans,4,19327,77308,Credit Card,Delhi,India,4
+ORD100457,2025-04-02,CUST3914,Electronics,Tablet,3,8748,26244,Credit Card,Maharashtra,India,4
+ORD100458,2025-04-03,CUST5968,Beauty,Perfume,2,26059,52118,Debit Card,Karnataka,India,4
+ORD100459,2025-04-04,CUST6917,Grocery,Atta 10Kg,5,28201,141005,Debit Card,Maharashtra,India,4
+ORD100460,2025-04-05,CUST9787,Beauty,Face Cream,2,17513,35026,Credit Card,West Bengal,India,4
+ORD100461,2025-04-06,CUST1728,Fashion,Jeans,1,24178,24178,Debit Card,Maharashtra,India,4
+ORD100462,2025-04-07,CUST2365,Fashion,Jacket,2,22557,45114,Credit Card,West Bengal,India,4
+ORD100463,2025-04-08,CUST5492,Fashion,T-Shirt,5,22801,114005,Upi,Karnataka,India,4
+ORD100464,2025-04-09,CUST1698,Fashion,Jacket,4,4209,16836,Upi,Delhi,India,4
+ORD100465,2025-04-10,CUST8186,Home & Kitchen,Water Bottle,2,20222,40444,Credit Card,Delhi,India,4
+ORD100466,2025-04-11,CUST1395,Grocery,Atta 10Kg,1,4644,4644,Cash On Delivery,Delhi,India,4
+ORD100467,2025-04-12,CUST8400,Grocery,Rice 5Kg,2,2987,5974,Credit Card,Maharashtra,India,4
+ORD100468,2025-04-13,CUST9082,Beauty,Hair Dryer,3,2376,7128,Upi,Maharashtra,India,4
+ORD100469,2025-04-14,CUST5171,Electronics,Headphones,4,2651,10604,Credit Card,West Bengal,India,4
+ORD100470,2025-04-15,CUST5360,Beauty,Perfume,1,28206,28206,Credit Card,Delhi,India,4
+ORD100471,2025-04-16,CUST3502,Electronics,Laptop,5,8507,42535,Cash On Delivery,West Bengal,India,4
+ORD100472,2025-04-17,CUST1717,Grocery,Atta 10Kg,2,19592,39184,Upi,Gujarat,India,4
+ORD100473,2025-04-18,CUST3782,Home & Kitchen,Cookware Set,5,20283,101415,Debit Card,Gujarat,India,4
+ORD100474,2025-04-19,CUST5946,Beauty,Face Cream,1,14412,14412,Upi,Gujarat,India,4
+ORD100475,2025-04-20,CUST6486,Electronics,Laptop,5,26736,133680,Cash On Delivery,West Bengal,India,4
+ORD100476,2025-04-21,CUST9335,Grocery,Tea 1Kg,3,3071,9213,Upi,Delhi,India,4
+ORD100477,2025-04-22,CUST5980,Beauty,Lipstick,2,28730,57460,Upi,Delhi,India,4
+ORD100478,2025-04-23,CUST8266,Fashion,Jeans,2,13039,26078,Upi,West Bengal,India,4
+ORD100479,2025-04-24,CUST5491,Fashion,Jeans,2,8475,16950,Cash On Delivery,Gujarat,India,4
+ORD100480,2025-04-25,CUST8192,Grocery,Rice 5Kg,1,9783,9783,Cash On Delivery,Delhi,India,4
+ORD100481,2025-04-26,CUST6588,Fashion,Shoes,1,21154,21154,Credit Card,Karnataka,India,4
+ORD100482,2025-04-27,CUST8651,Beauty,Face Cream,1,15242,15242,Cash On Delivery,Delhi,India,4
+ORD100483,2025-04-28,CUST4636,Grocery,Tea 1Kg,2,14500,29000,Cash On Delivery,Gujarat,India,4
+ORD100484,2025-04-29,CUST2167,Beauty,Hair Dryer,1,27256,27256,Cash On Delivery,West Bengal,India,4
+ORD100485,2025-04-30,CUST2062,Fashion,Jeans,5,17164,85820,Upi,Rajasthan,India,4
+ORD100486,2025-05-01,CUST3156,Electronics,Smartphone,5,4032,20160,Credit Card,Karnataka,India,5
+ORD100487,2025-05-02,CUST8860,Grocery,Rice 5Kg,2,27503,55006,Upi,Rajasthan,India,5
+ORD100488,2025-05-03,CUST6161,Grocery,Tea 1Kg,3,25159,75477,Credit Card,Delhi,India,5
+ORD100489,2025-05-04,CUST6305,Fashion,Jacket,4,19693,78772,Debit Card,Delhi,India,5
+ORD100490,2025-05-05,CUST7541,Fashion,Jeans,1,26764,26764,Debit Card,West Bengal,India,5
+ORD100491,2025-05-06,CUST5729,Home & Kitchen,Cookware Set,5,23264,116320,Debit Card,Delhi,India,5
+ORD100492,2025-05-07,CUST8330,Electronics,Headphones,4,12014,48056,Upi,Rajasthan,India,5
+ORD100493,2025-05-08,CUST6334,Grocery,Tea 1Kg,1,25047,25047,Debit Card,Delhi,India,5
+ORD100494,2025-05-09,CUST9924,Home & Kitchen,Cookware Set,3,12741,38223,Upi,Maharashtra,India,5
+ORD100495,2025-05-10,CUST5330,Beauty,Lipstick,2,11165,22330,Upi,Maharashtra,India,5
+ORD100496,2025-05-11,CUST9010,Fashion,Jacket,4,13622,54488,Debit Card,Maharashtra,India,5
+ORD100497,2025-05-12,CUST7801,Grocery,Rice 5Kg,1,5510,5510,Debit Card,Maharashtra,India,5
+ORD100498,2025-05-13,CUST5846,Fashion,T-Shirt,1,29766,29766,Cash On Delivery,Gujarat,India,5
+ORD100499,2025-05-14,CUST7731,Beauty,Hair Dryer,1,25782,25782,Debit Card,Gujarat,India,5
+ORD100500,2025-05-15,CUST8241,Grocery,Cooking Oil,1,3864,3864,Debit Card,Gujarat,India,5
+ORD100501,2025-05-16,CUST1953,Electronics,Smartwatch,1,21844,21844,Credit Card,Rajasthan,India,5
+ORD100502,2025-05-17,CUST3539,Fashion,Jacket,5,1738,8690,Debit Card,Maharashtra,India,5
+ORD100503,2025-05-18,CUST8056,Electronics,Tablet,5,2430,12150,Upi,Maharashtra,India,5
+ORD100504,2025-05-19,CUST2542,Beauty,Hair Dryer,4,18151,72604,Credit Card,Karnataka,India,5
+ORD100505,2025-05-20,CUST6293,Electronics,Headphones,3,2107,6321,Cash On Delivery,Delhi,India,5
+ORD100506,2025-05-21,CUST2191,Home & Kitchen,Mixer Grinder,2,4996,9992,Cash On Delivery,Karnataka,India,5
+ORD100507,2025-05-22,CUST7313,Beauty,Face Cream,3,5197,15591,Upi,Maharashtra,India,5
+ORD100508,2025-05-23,CUST7938,Electronics,Headphones,5,18824,94120,Debit Card,West Bengal,India,5
+ORD100509,2025-05-24,CUST3681,Grocery,Tea 1Kg,3,25434,76302,Cash On Delivery,Karnataka,India,5
+ORD100510,2025-05-25,CUST2540,Beauty,Perfume,2,23840,47680,Debit Card,Karnataka,India,5
+ORD100511,2025-05-26,CUST7172,Fashion,Jacket,2,19677,39354,Upi,Delhi,India,5
+ORD100512,2025-05-27,CUST6541,Grocery,Tea 1Kg,3,12089,36267,Debit Card,Delhi,India,5
+ORD100513,2025-05-28,CUST2365,Home & Kitchen,Water Bottle,4,8360,33440,Cash On Delivery,Maharashtra,India,5
+ORD100514,2025-05-29,CUST9691,Grocery,Atta 10Kg,5,16723,83615,Credit Card,Maharashtra,India,5
+ORD100515,2025-05-30,CUST9702,Electronics,Smartwatch,1,6243,6243,Upi,Rajasthan,India,5
+ORD100516,2025-05-31,CUST8494,Beauty,Face Cream,2,20535,41070,Debit Card,Maharashtra,India,5
+ORD100517,2025-06-01,CUST5312,Grocery,Atta 10Kg,2,12453,24906,Upi,Karnataka,India,6
+ORD100518,2025-06-02,CUST2324,Grocery,Tea 1Kg,3,24903,74709,Upi,Rajasthan,India,6
+ORD100519,2025-06-03,CUST4141,Fashion,T-Shirt,2,15366,30732,Upi,Gujarat,India,6
+ORD100520,2025-06-04,CUST8419,Electronics,Laptop,5,401,2005,Credit Card,Maharashtra,India,6
+ORD100521,2025-06-05,CUST4486,Home & Kitchen,Mixer Grinder,4,26117,104468,Upi,Maharashtra,India,6
+ORD100522,2025-06-06,CUST2810,Home & Kitchen,Cookware Set,4,29296,117184,Debit Card,Maharashtra,India,6
+ORD100523,2025-06-07,CUST7588,Electronics,Tablet,3,27210,81630,Credit Card,Gujarat,India,6
+ORD100524,2025-06-08,CUST3923,Electronics,Headphones,2,5955,11910,Credit Card,Gujarat,India,6
+ORD100525,2025-06-09,CUST6301,Home & Kitchen,Bedsheet,3,29540,88620,Cash On Delivery,Rajasthan,India,6
+ORD100526,2025-06-10,CUST5186,Beauty,Face Cream,4,29274,117096,Debit Card,Karnataka,India,6
+ORD100527,2025-06-11,CUST9905,Home & Kitchen,Cookware Set,5,19433,97165,Debit Card,Rajasthan,India,6
+ORD100528,2025-06-12,CUST6977,Beauty,Hair Dryer,1,12968,12968,Upi,Rajasthan,India,6
+ORD100529,2025-06-13,CUST5268,Beauty,Lipstick,3,19139,57417,Upi,Gujarat,India,6
+ORD100530,2025-06-14,CUST5748,Fashion,T-Shirt,3,9569,28707,Credit Card,Maharashtra,India,6
+ORD100531,2025-06-15,CUST5849,Grocery,Atta 10Kg,3,4957,14871,Cash On Delivery,Delhi,India,6
+ORD100532,2025-06-16,CUST4709,Grocery,Atta 10Kg,4,25385,101540,Upi,Rajasthan,India,6
+ORD100533,2025-06-17,CUST7619,Grocery,Tea 1Kg,1,27704,27704,Cash On Delivery,West Bengal,India,6
+ORD100534,2025-06-18,CUST9647,Electronics,Smartphone,4,282,1128,Credit Card,Maharashtra,India,6
+ORD100535,2025-06-19,CUST4072,Fashion,T-Shirt,5,2293,11465,Cash On Delivery,Gujarat,India,6
+ORD100536,2025-06-20,CUST7530,Electronics,Laptop,2,18402,36804,Credit Card,Rajasthan,India,6
+ORD100537,2025-06-21,CUST1504,Beauty,Lipstick,3,17948,53844,Cash On Delivery,Maharashtra,India,6
+ORD100538,2025-06-22,CUST2214,Fashion,T-Shirt,3,24848,74544,Credit Card,Delhi,India,6
+ORD100539,2025-06-23,CUST2531,Beauty,Lipstick,4,12248,48992,Upi,Delhi,India,6
+ORD100540,2025-06-24,CUST8576,Electronics,Laptop,2,10651,21302,Cash On Delivery,West Bengal,India,6
+ORD100541,2025-06-25,CUST1823,Electronics,Smartwatch,4,21750,87000,Upi,Maharashtra,India,6
+ORD100542,2025-06-26,CUST1928,Grocery,Atta 10Kg,2,14831,29662,Upi,Delhi,India,6
+ORD100543,2025-06-27,CUST6029,Home & Kitchen,Bedsheet,2,17768,35536,Cash On Delivery,Delhi,India,6
+ORD100544,2025-06-28,CUST1133,Home & Kitchen,Cookware Set,2,1561,3122,Debit Card,Rajasthan,India,6
+ORD100545,2025-06-29,CUST3105,Beauty,Lipstick,3,10758,32274,Cash On Delivery,West Bengal,India,6
+ORD100546,2025-06-30,CUST4627,Beauty,Hair Dryer,1,1214,1214,Credit Card,Delhi,India,6
+ORD100547,2025-07-01,CUST7316,Beauty,Hair Dryer,2,23448,46896,Upi,Maharashtra,India,7
+ORD100548,2025-07-02,CUST2852,Beauty,Face Cream,1,20611,20611,Upi,Karnataka,India,7
+ORD100549,2025-07-03,CUST5910,Grocery,Rice 5Kg,2,13055,26110,Upi,Delhi,India,7
+ORD100550,2025-07-04,CUST5175,Home & Kitchen,Mixer Grinder,2,4658,9316,Cash On Delivery,Delhi,India,7
+ORD100551,2025-07-05,CUST6348,Home & Kitchen,Water Bottle,4,28473,113892,Debit Card,Karnataka,India,7
+ORD100552,2025-07-06,CUST7190,Grocery,Atta 10Kg,4,7897,31588,Debit Card,Gujarat,India,7
+ORD100553,2025-07-07,CUST2256,Beauty,Hair Dryer,1,13716,13716,Credit Card,Karnataka,India,7
+ORD100554,2025-07-08,CUST4376,Grocery,Atta 10Kg,4,3478,13912,Debit Card,Maharashtra,India,7
+ORD100555,2025-07-09,CUST6645,Beauty,Hair Dryer,2,8512,17024,Credit Card,Maharashtra,India,7
+ORD100556,2025-07-10,CUST4486,Grocery,Tea 1Kg,5,17228,86140,Credit Card,Maharashtra,India,7
+ORD100557,2025-07-11,CUST4584,Fashion,T-Shirt,2,2868,5736,Debit Card,Karnataka,India,7
+ORD100558,2025-07-12,CUST9053,Beauty,Lipstick,5,395,1975,Cash On Delivery,Karnataka,India,7
+ORD100559,2025-07-13,CUST4330,Beauty,Lipstick,2,3806,7612,Upi,Maharashtra,India,7
+ORD100560,2025-07-14,CUST3703,Grocery,Atta 10Kg,2,14587,29174,Upi,Maharashtra,India,7
+ORD100561,2025-07-15,CUST9662,Grocery,Tea 1Kg,2,1400,2800,Credit Card,Gujarat,India,7
+ORD100562,2025-07-16,CUST9120,Electronics,Smartphone,5,7172,35860,Credit Card,Maharashtra,India,7
+ORD100563,2025-07-17,CUST8114,Beauty,Face Cream,3,23790,71370,Upi,Rajasthan,India,7
+ORD100564,2025-07-18,CUST2353,Grocery,Cooking Oil,1,6419,6419,Credit Card,Delhi,India,7
+ORD100565,2025-07-19,CUST6063,Electronics,Smartphone,5,28086,140430,Debit Card,West Bengal,India,7
+ORD100566,2025-07-20,CUST9549,Grocery,Tea 1Kg,4,29366,117464,Upi,West Bengal,India,7
+ORD100567,2025-07-21,CUST8575,Grocery,Cooking Oil,5,9037,45185,Credit Card,Karnataka,India,7
+ORD100568,2025-07-22,CUST1667,Electronics,Smartphone,3,7281,21843,Credit Card,Delhi,India,7
+ORD100569,2025-07-23,CUST5468,Home & Kitchen,Cookware Set,4,24890,99560,Credit Card,Karnataka,India,7
+ORD100570,2025-07-24,CUST7819,Electronics,Laptop,4,23762,95048,Debit Card,Rajasthan,India,7
+ORD100571,2025-07-25,CUST4719,Beauty,Hair Dryer,4,22367,89468,Upi,Delhi,India,7
+ORD100572,2025-07-26,CUST3745,Electronics,Smartphone,1,16602,16602,Credit Card,Delhi,India,7
+ORD100573,2025-07-27,CUST8483,Home & Kitchen,Mixer Grinder,5,25721,128605,Debit Card,Gujarat,India,7
+ORD100574,2025-07-28,CUST1539,Grocery,Cooking Oil,1,11369,11369,Cash On Delivery,West Bengal,India,7
+ORD100575,2025-07-29,CUST5964,Grocery,Tea 1Kg,1,29116,29116,Upi,West Bengal,India,7
+ORD100576,2025-07-30,CUST5835,Home & Kitchen,Mixer Grinder,5,26124,130620,Upi,Gujarat,India,7
+ORD100577,2025-07-31,CUST4775,Beauty,Perfume,2,1016,2032,Upi,West Bengal,India,7
+ORD100578,2025-08-01,CUST7042,Electronics,Smartphone,3,25026,75078,Debit Card,West Bengal,India,8
+ORD100579,2025-08-02,CUST8102,Grocery,Rice 5Kg,3,10855,32565,Cash On Delivery,Gujarat,India,8
+ORD100580,2025-08-03,CUST8312,Electronics,Tablet,1,19263,19263,Upi,Maharashtra,India,8
+ORD100581,2025-08-04,CUST6320,Electronics,Smartphone,3,26163,78489,Credit Card,Delhi,India,8
+ORD100582,2025-08-05,CUST7132,Electronics,Smartwatch,3,17242,51726,Upi,Gujarat,India,8
+ORD100583,2025-08-06,CUST8891,Grocery,Atta 10Kg,3,4434,13302,Credit Card,West Bengal,India,8
+ORD100584,2025-08-07,CUST3779,Electronics,Laptop,3,25159,75477,Cash On Delivery,Gujarat,India,8
+ORD100585,2025-08-08,CUST1924,Fashion,Jeans,1,6191,6191,Debit Card,Karnataka,India,8
+ORD100586,2025-08-09,CUST2581,Fashion,Jacket,1,11512,11512,Credit Card,West Bengal,India,8
+ORD100587,2025-08-10,CUST8714,Home & Kitchen,Mixer Grinder,5,24765,123825,Cash On Delivery,Karnataka,India,8
+ORD100588,2025-08-11,CUST4324,Grocery,Atta 10Kg,2,12196,24392,Debit Card,Delhi,India,8
+ORD100589,2025-08-12,CUST6713,Beauty,Hair Dryer,3,27397,82191,Debit Card,Karnataka,India,8
+ORD100590,2025-08-13,CUST8026,Fashion,Jacket,3,27969,83907,Cash On Delivery,Delhi,India,8
+ORD100591,2025-08-14,CUST1255,Beauty,Hair Dryer,3,1097,3291,Cash On Delivery,Rajasthan,India,8
+ORD100592,2025-08-15,CUST5804,Electronics,Smartphone,4,870,3480,Credit Card,Karnataka,India,8
+ORD100593,2025-08-16,CUST2838,Grocery,Tea 1Kg,1,26731,26731,Credit Card,Maharashtra,India,8
+ORD100594,2025-08-17,CUST1009,Home & Kitchen,Mixer Grinder,5,26629,133145,Cash On Delivery,Gujarat,India,8
+ORD100595,2025-08-18,CUST3871,Electronics,Headphones,5,21914,109570,Upi,Karnataka,India,8
+ORD100596,2025-08-19,CUST9989,Beauty,Perfume,4,26064,104256,Credit Card,Karnataka,India,8
+ORD100597,2025-08-20,CUST8409,Grocery,Cooking Oil,1,28247,28247,Upi,Delhi,India,8
+ORD100598,2025-08-21,CUST8418,Home & Kitchen,Water Bottle,2,11948,23896,Credit Card,West Bengal,India,8
+ORD100599,2025-08-22,CUST6124,Home & Kitchen,Water Bottle,2,3716,7432,Debit Card,West Bengal,India,8
+ORD100600,2025-08-23,CUST2015,Beauty,Face Cream,5,1154,5770,Credit Card,Gujarat,India,8
+ORD100601,2025-08-24,CUST3193,Fashion,Shoes,4,12882,51528,Credit Card,Maharashtra,India,8
+ORD100602,2025-08-25,CUST9415,Home & Kitchen,Cookware Set,4,16954,67816,Debit Card,Gujarat,India,8
+ORD100603,2025-08-26,CUST8449,Home & Kitchen,Cookware Set,1,16967,16967,Credit Card,Rajasthan,India,8
+ORD100604,2025-08-27,CUST5158,Electronics,Headphones,3,28069,84207,Upi,West Bengal,India,8
+ORD100605,2025-08-28,CUST4925,Grocery,Tea 1Kg,4,12380,49520,Credit Card,Gujarat,India,8
+ORD100606,2025-08-29,CUST7970,Grocery,Atta 10Kg,4,27726,110904,Credit Card,Rajasthan,India,8
+ORD100607,2025-08-30,CUST7938,Grocery,Atta 10Kg,4,24231,96924,Cash On Delivery,Rajasthan,India,8
+ORD100608,2025-08-31,CUST5784,Fashion,Shoes,5,23067,115335,Upi,Karnataka,India,8
+ORD100609,2025-09-01,CUST5000,Fashion,Jacket,1,3948,3948,Credit Card,Rajasthan,India,9
+ORD100610,2025-09-02,CUST2633,Grocery,Rice 5Kg,3,5910,17730,Cash On Delivery,West Bengal,India,9
+ORD100611,2025-09-03,CUST8266,Home & Kitchen,Water Bottle,1,2303,2303,Debit Card,Rajasthan,India,9
+ORD100612,2025-09-04,CUST9702,Grocery,Atta 10Kg,5,29101,145505,Credit Card,Gujarat,India,9
+ORD100613,2025-09-05,CUST1384,Beauty,Face Cream,5,12231,61155,Cash On Delivery,Rajasthan,India,9
+ORD100614,2025-09-06,CUST1404,Beauty,Lipstick,4,8690,34760,Debit Card,West Bengal,India,9
+ORD100615,2025-09-07,CUST9175,Beauty,Lipstick,5,27281,136405,Upi,Delhi,India,9
+ORD100616,2025-09-08,CUST3000,Beauty,Perfume,5,19412,97060,Debit Card,Maharashtra,India,9
+ORD100617,2025-09-09,CUST6989,Fashion,Jeans,3,19548,58644,Credit Card,Delhi,India,9
+ORD100618,2025-09-10,CUST2460,Beauty,Hair Dryer,4,6844,27376,Credit Card,Delhi,India,9
+ORD100619,2025-09-11,CUST8190,Home & Kitchen,Mixer Grinder,4,22631,90524,Credit Card,Delhi,India,9
+ORD100620,2025-09-12,CUST8140,Beauty,Perfume,5,27972,139860,Debit Card,Gujarat,India,9
+ORD100621,2025-09-13,CUST4636,Electronics,Tablet,5,5860,29300,Debit Card,Delhi,India,9
+ORD100622,2025-09-14,CUST5809,Home & Kitchen,Cookware Set,5,7282,36410,Cash On Delivery,Maharashtra,India,9
+ORD100623,2025-09-15,CUST5178,Beauty,Perfume,3,5941,17823,Debit Card,Gujarat,India,9
+ORD100624,2025-09-16,CUST8245,Fashion,T-Shirt,3,5196,15588,Upi,Delhi,India,9
+ORD100625,2025-09-17,CUST7600,Fashion,Shoes,4,5432,21728,Cash On Delivery,Gujarat,India,9
+ORD100626,2025-09-18,CUST6997,Electronics,Headphones,3,19545,58635,Debit Card,Delhi,India,9
+ORD100627,2025-09-19,CUST3048,Home & Kitchen,Water Bottle,3,27100,81300,Upi,Karnataka,India,9
+ORD100628,2025-09-20,CUST5780,Electronics,Headphones,1,13488,13488,Credit Card,Rajasthan,India,9
+ORD100629,2025-09-21,CUST1716,Beauty,Face Cream,4,6536,26144,Credit Card,Karnataka,India,9
+ORD100630,2025-09-22,CUST8939,Home & Kitchen,Bedsheet,1,12580,12580,Credit Card,Rajasthan,India,9
+ORD100631,2025-09-23,CUST6565,Home & Kitchen,Water Bottle,2,17719,35438,Debit Card,Maharashtra,India,9
+ORD100632,2025-09-24,CUST5544,Beauty,Perfume,4,1519,6076,Cash On Delivery,Rajasthan,India,9
+ORD100633,2025-09-25,CUST5976,Beauty,Lipstick,2,5413,10826,Upi,West Bengal,India,9
+ORD100634,2025-09-26,CUST4419,Home & Kitchen,Mixer Grinder,1,19373,19373,Cash On Delivery,Gujarat,India,9
+ORD100635,2025-09-27,CUST8239,Home & Kitchen,Bedsheet,4,22639,90556,Credit Card,Delhi,India,9
+ORD100636,2025-09-28,CUST1249,Fashion,Jacket,5,12783,63915,Credit Card,Gujarat,India,9
+ORD100637,2025-09-29,CUST9865,Electronics,Tablet,4,6782,27128,Credit Card,Rajasthan,India,9
+ORD100638,2025-09-30,CUST1770,Beauty,Perfume,5,25730,128650,Upi,Delhi,India,9
+ORD100639,2025-10-01,CUST5363,Electronics,Headphones,3,18843,56529,Credit Card,West Bengal,India,10
+ORD100640,2025-10-02,CUST2077,Electronics,Smartphone,5,4005,20025,Cash On Delivery,Rajasthan,India,10
+ORD100641,2025-10-03,CUST9427,Fashion,Jeans,5,5950,29750,Upi,Karnataka,India,10
+ORD100642,2025-10-04,CUST9580,Electronics,Laptop,5,22618,113090,Debit Card,Rajasthan,India,10
+ORD100643,2025-10-05,CUST8901,Home & Kitchen,Cookware Set,4,19201,76804,Debit Card,Gujarat,India,10
+ORD100644,2025-10-06,CUST5858,Fashion,Shoes,2,13051,26102,Cash On Delivery,West Bengal,India,10
+ORD100645,2025-10-07,CUST7544,Beauty,Face Cream,1,14319,14319,Cash On Delivery,Karnataka,India,10
+ORD100646,2025-10-08,CUST5719,Beauty,Hair Dryer,5,1061,5305,Credit Card,Karnataka,India,10
+ORD100647,2025-10-09,CUST3814,Fashion,T-Shirt,4,25412,101648,Cash On Delivery,West Bengal,India,10
+ORD100648,2025-10-10,CUST4374,Fashion,T-Shirt,2,11549,23098,Debit Card,Karnataka,India,10
+ORD100649,2025-10-11,CUST2252,Home & Kitchen,Water Bottle,2,28902,57804,Cash On Delivery,Delhi,India,10
+ORD100650,2025-10-12,CUST7996,Grocery,Tea 1Kg,2,1647,3294,Cash On Delivery,Rajasthan,India,10
+ORD100651,2025-10-13,CUST5673,Beauty,Lipstick,4,13957,55828,Upi,Maharashtra,India,10
+ORD100652,2025-10-14,CUST5530,Home & Kitchen,Mixer Grinder,2,22908,45816,Upi,Gujarat,India,10
+ORD100653,2025-10-15,CUST7881,Grocery,Rice 5Kg,2,28218,56436,Cash On Delivery,Karnataka,India,10
+ORD100654,2025-10-16,CUST7949,Electronics,Laptop,5,11288,56440,Cash On Delivery,Maharashtra,India,10
+ORD100655,2025-10-17,CUST7241,Fashion,Shoes,3,7324,21972,Upi,Gujarat,India,10
+ORD100656,2025-10-18,CUST9017,Electronics,Tablet,4,19693,78772,Cash On Delivery,Delhi,India,10
+ORD100657,2025-10-19,CUST7941,Electronics,Headphones,2,11351,22702,Debit Card,Karnataka,India,10
+ORD100658,2025-10-20,CUST8002,Electronics,Smartwatch,5,25624,128120,Upi,Maharashtra,India,10
+ORD100659,2025-10-21,CUST2331,Beauty,Face Cream,1,14723,14723,Credit Card,Gujarat,India,10
+ORD100660,2025-10-22,CUST5261,Fashion,Jacket,1,11284,11284,Credit Card,Delhi,India,10
+ORD100661,2025-10-23,CUST8648,Fashion,T-Shirt,3,24163,72489,Upi,Delhi,India,10
+ORD100662,2025-10-24,CUST6115,Home & Kitchen,Water Bottle,5,7055,35275,Upi,Rajasthan,India,10
+ORD100663,2025-10-25,CUST5637,Beauty,Hair Dryer,3,14279,42837,Cash On Delivery,Delhi,India,10
+ORD100664,2025-10-26,CUST5854,Electronics,Headphones,5,21958,109790,Credit Card,West Bengal,India,10
+ORD100665,2025-10-27,CUST4177,Fashion,T-Shirt,1,27110,27110,Upi,Rajasthan,India,10
+ORD100666,2025-10-28,CUST8730,Home & Kitchen,Water Bottle,4,21204,84816,Debit Card,West Bengal,India,10
+ORD100667,2025-10-29,CUST3180,Home & Kitchen,Cookware Set,1,8667,8667,Upi,Karnataka,India,10
+ORD100668,2025-10-30,CUST5892,Electronics,Tablet,1,4168,4168,Upi,West Bengal,India,10
+ORD100669,2025-10-31,CUST8043,Home & Kitchen,Water Bottle,2,6050,12100,Debit Card,West Bengal,India,10
+ORD100670,2025-11-01,CUST1137,Beauty,Hair Dryer,3,21460,64380,Upi,West Bengal,India,11
+ORD100671,2025-11-02,CUST7327,Fashion,T-Shirt,5,19927,99635,Credit Card,Gujarat,India,11
+ORD100672,2025-11-03,CUST4472,Home & Kitchen,Bedsheet,1,19941,19941,Cash On Delivery,West Bengal,India,11
+ORD100673,2025-11-04,CUST6449,Home & Kitchen,Mixer Grinder,2,3028,6056,Upi,Delhi,India,11
+ORD100674,2025-11-05,CUST3832,Grocery,Tea 1Kg,1,27759,27759,Cash On Delivery,Delhi,India,11
+ORD100675,2025-11-06,CUST4579,Electronics,Tablet,2,3635,7270,Debit Card,West Bengal,India,11
+ORD100676,2025-11-07,CUST6971,Fashion,Shoes,1,2048,2048,Upi,Karnataka,India,11
+ORD100677,2025-11-08,CUST5164,Electronics,Tablet,3,14354,43062,Cash On Delivery,Gujarat,India,11
+ORD100678,2025-11-09,CUST8941,Electronics,Tablet,1,19892,19892,Upi,Rajasthan,India,11
+ORD100679,2025-11-10,CUST6569,Electronics,Headphones,4,26120,104480,Cash On Delivery,Delhi,India,11
+ORD100680,2025-11-11,CUST5300,Home & Kitchen,Cookware Set,3,29010,87030,Debit Card,Delhi,India,11
+ORD100681,2025-11-12,CUST7269,Electronics,Smartphone,2,9124,18248,Upi,West Bengal,India,11
+ORD100682,2025-11-13,CUST4818,Home & Kitchen,Cookware Set,5,25268,126340,Credit Card,Delhi,India,11
+ORD100683,2025-11-14,CUST2906,Electronics,Smartphone,3,13882,41646,Cash On Delivery,Delhi,India,11
+ORD100684,2025-11-15,CUST7254,Electronics,Smartwatch,3,26249,78747,Debit Card,Delhi,India,11
+ORD100685,2025-11-16,CUST1760,Fashion,Jeans,1,9421,9421,Cash On Delivery,Delhi,India,11
+ORD100686,2025-11-17,CUST8830,Fashion,Shoes,5,24122,120610,Cash On Delivery,Karnataka,India,11
+ORD100687,2025-11-18,CUST8350,Home & Kitchen,Mixer Grinder,3,12139,36417,Upi,Gujarat,India,11
+ORD100688,2025-11-19,CUST7238,Fashion,Shoes,1,3376,3376,Debit Card,Karnataka,India,11
+ORD100689,2025-11-20,CUST7090,Fashion,Shoes,3,21889,65667,Debit Card,Karnataka,India,11
+ORD100690,2025-11-21,CUST7031,Beauty,Lipstick,1,2161,2161,Cash On Delivery,Gujarat,India,11
+ORD100691,2025-11-22,CUST8687,Electronics,Tablet,2,15435,30870,Cash On Delivery,Rajasthan,India,11
+ORD100692,2025-11-23,CUST9472,Beauty,Face Cream,4,3558,14232,Upi,Rajasthan,India,11
+ORD100693,2025-11-24,CUST2887,Electronics,Laptop,3,1473,4419,Credit Card,Rajasthan,India,11
+ORD100694,2025-11-25,CUST4266,Home & Kitchen,Mixer Grinder,2,9307,18614,Debit Card,Gujarat,India,11
+ORD100695,2025-11-26,CUST1666,Beauty,Lipstick,5,21898,109490,Debit Card,Gujarat,India,11
+ORD100696,2025-11-27,CUST5188,Electronics,Headphones,4,12592,50368,Cash On Delivery,West Bengal,India,11
+ORD100697,2025-11-28,CUST1671,Home & Kitchen,Bedsheet,2,18982,37964,Cash On Delivery,Gujarat,India,11
+ORD100698,2025-11-29,CUST7777,Fashion,Jeans,4,20766,83064,Credit Card,Maharashtra,India,11
+ORD100699,2025-11-30,CUST8570,Electronics,Laptop,3,24129,72387,Upi,West Bengal,India,11
+ORD100700,2025-12-01,CUST8956,Fashion,T-Shirt,4,12189,48756,Credit Card,West Bengal,India,12
+ORD100701,2025-12-02,CUST6124,Grocery,Rice 5Kg,4,18925,75700,Debit Card,West Bengal,India,12
+ORD100702,2025-12-03,CUST6585,Home & Kitchen,Cookware Set,4,17558,70232,Upi,Rajasthan,India,12
+ORD100703,2025-12-04,CUST5777,Grocery,Tea 1Kg,1,27713,27713,Credit Card,West Bengal,India,12
+ORD100704,2025-12-05,CUST4900,Electronics,Headphones,4,26102,104408,Debit Card,Karnataka,India,12
+ORD100705,2025-12-06,CUST7677,Home & Kitchen,Mixer Grinder,4,13226,52904,Cash On Delivery,Rajasthan,India,12
+ORD100706,2025-12-07,CUST7981,Beauty,Lipstick,2,10577,21154,Cash On Delivery,Maharashtra,India,12
+ORD100707,2025-12-08,CUST7376,Electronics,Headphones,5,20871,104355,Credit Card,West Bengal,India,12
+ORD100708,2025-12-09,CUST1523,Grocery,Rice 5Kg,5,14591,72955,Upi,Delhi,India,12
+ORD100709,2025-12-10,CUST3393,Grocery,Rice 5Kg,1,27575,27575,Upi,Gujarat,India,12
+ORD100710,2025-12-11,CUST3593,Fashion,Jeans,3,18595,55785,Cash On Delivery,Karnataka,India,12
+ORD100711,2025-12-12,CUST8240,Home & Kitchen,Mixer Grinder,3,6278,18834,Upi,West Bengal,India,12
+ORD100712,2025-12-13,CUST7937,Fashion,Shoes,1,9006,9006,Upi,Gujarat,India,12
+ORD100713,2025-12-14,CUST7190,Home & Kitchen,Bedsheet,4,23584,94336,Upi,Karnataka,India,12
+ORD100714,2025-12-15,CUST6240,Grocery,Atta 10Kg,1,20488,20488,Debit Card,Maharashtra,India,12
+ORD100715,2025-12-16,CUST7493,Home & Kitchen,Cookware Set,2,21084,42168,Credit Card,Maharashtra,India,12
+ORD100716,2025-12-17,CUST3878,Beauty,Face Cream,1,4824,4824,Credit Card,Rajasthan,India,12
+ORD100717,2025-12-18,CUST5143,Grocery,Rice 5Kg,1,21175,21175,Upi,Rajasthan,India,12
+ORD100718,2025-12-19,CUST4644,Beauty,Hair Dryer,5,13142,65710,Upi,Rajasthan,India,12
+ORD100719,2025-12-20,CUST5432,Beauty,Face Cream,1,2662,2662,Cash On Delivery,West Bengal,India,12
+ORD100720,2025-12-21,CUST2276,Beauty,Lipstick,5,13469,67345,Upi,Gujarat,India,12
+ORD100721,2025-12-22,CUST6811,Electronics,Laptop,2,24566,49132,Credit Card,West Bengal,India,12
+ORD100722,2025-12-23,CUST1302,Fashion,Shoes,3,29625,88875,Cash On Delivery,Gujarat,India,12
+ORD100723,2025-12-24,CUST1638,Electronics,Smartphone,5,27726,138630,Debit Card,Karnataka,India,12
+ORD100724,2025-12-25,CUST1055,Beauty,Perfume,3,15286,45858,Debit Card,Karnataka,India,12
+ORD100725,2025-12-26,CUST9717,Electronics,Headphones,3,18523,55569,Debit Card,Karnataka,India,12
+ORD100726,2025-12-27,CUST9150,Home & Kitchen,Water Bottle,4,18479,73916,Upi,West Bengal,India,12
+ORD100727,2025-12-28,CUST3125,Electronics,Headphones,2,5384,10768,Cash On Delivery,Delhi,India,12
+ORD100728,2025-12-29,CUST1364,Fashion,T-Shirt,2,9543,19086,Upi,Rajasthan,India,12
+ORD100729,2025-12-30,CUST7809,Fashion,Jacket,3,14231,42693,Cash On Delivery,Karnataka,India,12
+ORD100730,2025-12-31,CUST5621,Fashion,T-Shirt,2,26083,52166,Credit Card,West Bengal,India,12
+ORD100731,2026-01-01,CUST6126,Beauty,Hair Dryer,3,26982,80946,Debit Card,Maharashtra,India,1
+ORD100732,2026-01-02,CUST6122,Grocery,Cooking Oil,4,2618,10472,Upi,Gujarat,India,1
+ORD100733,2026-01-03,CUST2646,Electronics,Headphones,2,28077,56154,Credit Card,Gujarat,India,1
+ORD100734,2026-01-04,CUST1918,Grocery,Rice 5Kg,5,17006,85030,Credit Card,Karnataka,India,1
+ORD100735,2026-01-05,CUST3797,Beauty,Hair Dryer,5,19294,96470,Credit Card,West Bengal,India,1
+ORD100736,2026-01-06,CUST7506,Home & Kitchen,Mixer Grinder,4,19659,78636,Debit Card,West Bengal,India,1
+ORD100737,2026-01-07,CUST6870,Home & Kitchen,Cookware Set,2,17191,34382,Upi,Maharashtra,India,1
+ORD100738,2026-01-08,CUST2531,Home & Kitchen,Water Bottle,3,12934,38802,Credit Card,Delhi,India,1
+ORD100739,2026-01-09,CUST9172,Beauty,Perfume,1,7463,7463,Debit Card,Karnataka,India,1
+ORD100740,2026-01-10,CUST4345,Fashion,T-Shirt,1,9370,9370,Cash On Delivery,West Bengal,India,1
+ORD100741,2026-01-11,CUST8673,Beauty,Hair Dryer,1,20635,20635,Cash On Delivery,Rajasthan,India,1
+ORD100742,2026-01-12,CUST7949,Beauty,Face Cream,3,22218,66654,Cash On Delivery,Maharashtra,India,1
+ORD100743,2026-01-13,CUST7882,Fashion,Jeans,1,14648,14648,Upi,Delhi,India,1
+ORD100744,2026-01-14,CUST2906,Electronics,Laptop,3,16708,50124,Debit Card,West Bengal,India,1
+ORD100745,2026-01-15,CUST4086,Fashion,Jacket,1,3171,3171,Upi,Gujarat,India,1
+ORD100746,2026-01-16,CUST9152,Electronics,Laptop,2,25792,51584,Credit Card,Rajasthan,India,1
+ORD100747,2026-01-17,CUST6750,Electronics,Smartphone,3,8507,25521,Credit Card,Gujarat,India,1
+ORD100748,2026-01-18,CUST9905,Beauty,Perfume,3,18204,54612,Credit Card,West Bengal,India,1
+ORD100749,2026-01-19,CUST2062,Grocery,Atta 10Kg,1,3141,3141,Cash On Delivery,Gujarat,India,1
+ORD100750,2026-01-20,CUST2976,Electronics,Laptop,2,6397,12794,Debit Card,Delhi,India,1
+ORD100751,2026-01-21,CUST2296,Electronics,Headphones,2,29354,58708,Debit Card,West Bengal,India,1
+ORD100752,2026-01-22,CUST7229,Home & Kitchen,Water Bottle,1,13875,13875,Debit Card,Delhi,India,1
+ORD100753,2026-01-23,CUST8641,Home & Kitchen,Water Bottle,4,9748,38992,Debit Card,Karnataka,India,1
+ORD100754,2026-01-24,CUST1125,Home & Kitchen,Cookware Set,3,24674,74022,Debit Card,Delhi,India,1
+ORD100755,2026-01-25,CUST5632,Fashion,Jacket,5,18373,91865,Upi,Delhi,India,1
+ORD100756,2026-01-26,CUST7288,Grocery,Rice 5Kg,4,27804,111216,Credit Card,West Bengal,India,1
+ORD100757,2026-01-27,CUST4596,Fashion,Jacket,5,28947,144735,Credit Card,West Bengal,India,1
+ORD100758,2026-01-28,CUST7168,Home & Kitchen,Bedsheet,5,23931,119655,Upi,Karnataka,India,1
+ORD100759,2026-01-29,CUST8561,Grocery,Rice 5Kg,3,4182,12546,Debit Card,Karnataka,India,1
+ORD100760,2026-01-30,CUST9258,Fashion,Jeans,5,21297,106485,Cash On Delivery,West Bengal,India,1
+ORD100761,2026-01-31,CUST1232,Grocery,Atta 10Kg,4,25060,100240,Upi,Karnataka,India,1
+ORD100762,2026-02-01,CUST7371,Fashion,Shoes,2,7308,14616,Cash On Delivery,Rajasthan,India,2
+ORD100763,2026-02-02,CUST5206,Grocery,Atta 10Kg,2,28274,56548,Credit Card,Rajasthan,India,2
+ORD100764,2026-02-03,CUST8943,Grocery,Tea 1Kg,4,28795,115180,Upi,Karnataka,India,2
+ORD100765,2026-02-04,CUST7891,Beauty,Perfume,4,22966,91864,Cash On Delivery,Maharashtra,India,2
+ORD100766,2026-02-05,CUST7738,Electronics,Tablet,2,18457,36914,Cash On Delivery,West Bengal,India,2
+ORD100767,2026-02-06,CUST3472,Beauty,Face Cream,2,18443,36886,Cash On Delivery,West Bengal,India,2
+ORD100768,2026-02-07,CUST3739,Home & Kitchen,Mixer Grinder,2,6992,13984,Debit Card,Gujarat,India,2
+ORD100769,2026-02-08,CUST6401,Fashion,Jeans,2,10917,21834,Upi,Delhi,India,2
+ORD100770,2026-02-09,CUST2761,Grocery,Rice 5Kg,3,26406,79218,Cash On Delivery,West Bengal,India,2
+ORD100771,2026-02-10,CUST1876,Home & Kitchen,Bedsheet,4,1361,5444,Credit Card,Gujarat,India,2
+ORD100772,2026-02-11,CUST4812,Fashion,Jacket,1,6183,6183,Debit Card,Rajasthan,India,2
+ORD100773,2026-02-12,CUST2460,Grocery,Atta 10Kg,3,2376,7128,Debit Card,Delhi,India,2
+ORD100774,2026-02-13,CUST2733,Grocery,Tea 1Kg,2,12342,24684,Cash On Delivery,Gujarat,India,2
+ORD100775,2026-02-14,CUST2605,Electronics,Smartphone,3,17955,53865,Debit Card,Maharashtra,India,2
+ORD100776,2026-02-15,CUST6622,Fashion,T-Shirt,2,23438,46876,Credit Card,Gujarat,India,2
+ORD100777,2026-02-16,CUST7767,Fashion,Jacket,3,6753,20259,Cash On Delivery,Delhi,India,2
+ORD100778,2026-02-17,CUST7986,Home & Kitchen,Bedsheet,3,6836,20508,Cash On Delivery,Delhi,India,2
+ORD100779,2026-02-18,CUST4517,Beauty,Hair Dryer,3,15416,46248,Credit Card,Rajasthan,India,2
+ORD100780,2026-02-19,CUST4735,Electronics,Laptop,4,15229,60916,Cash On Delivery,Rajasthan,India,2
+ORD100781,2026-02-20,CUST9434,Fashion,T-Shirt,5,5073,25365,Credit Card,Karnataka,India,2
+ORD100782,2026-02-21,CUST3590,Electronics,Smartwatch,1,26173,26173,Debit Card,Gujarat,India,2
+ORD100783,2026-02-22,CUST2063,Grocery,Cooking Oil,5,7901,39505,Cash On Delivery,Maharashtra,India,2
+ORD100784,2026-02-23,CUST5324,Home & Kitchen,Bedsheet,3,22256,66768,Cash On Delivery,Gujarat,India,2
+ORD100785,2026-02-24,CUST6342,Home & Kitchen,Mixer Grinder,2,22739,45478,Cash On Delivery,Maharashtra,India,2
+ORD100786,2026-02-25,CUST1005,Home & Kitchen,Mixer Grinder,2,10279,20558,Credit Card,Maharashtra,India,2
+ORD100787,2026-02-26,CUST8489,Fashion,Jeans,4,21257,85028,Debit Card,Maharashtra,India,2
+ORD100788,2026-02-27,CUST9659,Fashion,Jacket,3,17993,53979,Credit Card,Maharashtra,India,2
+ORD100789,2026-02-28,CUST9195,Home & Kitchen,Mixer Grinder,4,27436,109744,Cash On Delivery,Karnataka,India,2
+ORD100790,2026-03-01,CUST6966,Grocery,Atta 10Kg,5,20561,102805,Credit Card,Rajasthan,India,3
+ORD100791,2026-03-02,CUST9837,Grocery,Cooking Oil,2,5447,10894,Cash On Delivery,Gujarat,India,3
+ORD100792,2026-03-03,CUST1117,Fashion,T-Shirt,4,7389,29556,Debit Card,Rajasthan,India,3
+ORD100793,2026-03-04,CUST3551,Grocery,Tea 1Kg,1,9511,9511,Upi,Maharashtra,India,3
+ORD100794,2026-03-05,CUST6560,Fashion,Jacket,2,14829,29658,Debit Card,Delhi,India,3
+ORD100795,2026-03-06,CUST5289,Grocery,Atta 10Kg,3,5260,15780,Upi,Karnataka,India,3
+ORD100796,2026-03-07,CUST1846,Beauty,Hair Dryer,4,25687,102748,Upi,Maharashtra,India,3
+ORD100797,2026-03-08,CUST7316,Grocery,Atta 10Kg,4,28248,112992,Credit Card,Maharashtra,India,3
+ORD100798,2026-03-09,CUST7469,Fashion,Shoes,5,10548,52740,Cash On Delivery,Delhi,India,3
+ORD100799,2026-03-10,CUST9915,Beauty,Hair Dryer,3,1064,3192,Debit Card,West Bengal,India,3
+ORD100800,2026-03-11,CUST1224,Beauty,Face Cream,4,12570,50280,Credit Card,Rajasthan,India,3
+ORD100801,2026-03-12,CUST5208,Grocery,Atta 10Kg,4,10730,42920,Upi,West Bengal,India,3
+ORD100802,2026-03-13,CUST7283,Grocery,Cooking Oil,1,7974,7974,Credit Card,Rajasthan,India,3
+ORD100803,2026-03-14,CUST3048,Grocery,Rice 5Kg,4,19362,77448,Cash On Delivery,Maharashtra,India,3
+ORD100804,2026-03-15,CUST7233,Electronics,Tablet,4,14366,57464,Debit Card,Delhi,India,3
+ORD100805,2026-03-16,CUST2828,Beauty,Face Cream,2,2775,5550,Cash On Delivery,Delhi,India,3
+ORD100806,2026-03-17,CUST2917,Beauty,Face Cream,2,24188,48376,Upi,Maharashtra,India,3
+ORD100807,2026-03-18,CUST5234,Home & Kitchen,Mixer Grinder,4,7693,30772,Cash On Delivery,West Bengal,India,3
+ORD100808,2026-03-19,CUST7988,Beauty,Face Cream,3,14723,44169,Upi,Delhi,India,3
+ORD100809,2026-03-20,CUST3026,Beauty,Lipstick,4,14747,58988,Cash On Delivery,West Bengal,India,3
+ORD100810,2026-03-21,CUST4744,Electronics,Tablet,3,20669,62007,Credit Card,Delhi,India,3
+ORD100811,2026-03-22,CUST1009,Beauty,Face Cream,3,9044,27132,Cash On Delivery,West Bengal,India,3
+ORD100812,2026-03-23,CUST1260,Electronics,Tablet,4,18742,74968,Upi,West Bengal,India,3
+ORD100813,2026-03-24,CUST7038,Beauty,Perfume,4,11663,46652,Credit Card,Gujarat,India,3
+ORD100814,2026-03-25,CUST3219,Beauty,Hair Dryer,3,23828,71484,Upi,Karnataka,India,3
+ORD100815,2026-03-26,CUST8041,Fashion,Jacket,3,19383,58149,Cash On Delivery,Delhi,India,3
+ORD100816,2026-03-27,CUST3060,Beauty,Hair Dryer,2,29282,58564,Credit Card,Delhi,India,3
+ORD100817,2026-03-28,CUST6287,Home & Kitchen,Bedsheet,3,9863,29589,Credit Card,Rajasthan,India,3
+ORD100818,2026-03-29,CUST2619,Fashion,Shoes,1,24689,24689,Upi,Karnataka,India,3
+ORD100819,2026-03-30,CUST9512,Beauty,Lipstick,3,20541,61623,Debit Card,Delhi,India,3
+ORD100820,2026-03-31,CUST2342,Grocery,Tea 1Kg,1,8033,8033,Credit Card,Rajasthan,India,3
+ORD100821,2026-04-01,CUST3832,Fashion,Jeans,3,1852,5556,Credit Card,West Bengal,India,4
+ORD100822,2026-04-02,CUST3824,Grocery,Tea 1Kg,1,26068,26068,Upi,Maharashtra,India,4
+ORD100823,2026-04-03,CUST2994,Electronics,Tablet,4,9490,37960,Debit Card,Maharashtra,India,4
+ORD100824,2026-04-04,CUST4490,Home & Kitchen,Bedsheet,4,14512,58048,Debit Card,West Bengal,India,4
+ORD100825,2026-04-05,CUST8984,Home & Kitchen,Water Bottle,3,25088,75264,Upi,Gujarat,India,4
+ORD100826,2026-04-06,CUST2604,Grocery,Atta 10Kg,1,15723,15723,Credit Card,Rajasthan,India,4
+ORD100827,2026-04-07,CUST1235,Beauty,Hair Dryer,4,472,1888,Cash On Delivery,Delhi,India,4
+ORD100828,2026-04-08,CUST2908,Fashion,T-Shirt,5,14614,73070,Cash On Delivery,Rajasthan,India,4
+ORD100829,2026-04-09,CUST9567,Electronics,Headphones,2,17090,34180,Cash On Delivery,West Bengal,India,4
+ORD100830,2026-04-10,CUST4530,Fashion,Shoes,1,24241,24241,Upi,Rajasthan,India,4
+ORD100831,2026-04-11,CUST6256,Home & Kitchen,Mixer Grinder,1,29201,29201,Upi,Gujarat,India,4
+ORD100832,2026-04-12,CUST3635,Grocery,Cooking Oil,3,13307,39921,Upi,Maharashtra,India,4
+ORD100833,2026-04-13,CUST9162,Fashion,T-Shirt,4,9321,37284,Upi,Karnataka,India,4
+ORD100834,2026-04-14,CUST3560,Fashion,Jeans,2,17867,35734,Debit Card,Maharashtra,India,4
+ORD100835,2026-04-15,CUST6415,Home & Kitchen,Mixer Grinder,5,4586,22930,Cash On Delivery,West Bengal,India,4
+ORD100836,2026-04-16,CUST4391,Beauty,Lipstick,2,9147,18294,Debit Card,Delhi,India,4
+ORD100837,2026-04-17,CUST6951,Beauty,Lipstick,1,16217,16217,Cash On Delivery,Karnataka,India,4
+ORD100838,2026-04-18,CUST6468,Grocery,Tea 1Kg,3,8950,26850,Debit Card,Delhi,India,4
+ORD100839,2026-04-19,CUST9007,Fashion,T-Shirt,1,20206,20206,Credit Card,Rajasthan,India,4
+ORD100840,2026-04-20,CUST7413,Electronics,Tablet,3,21769,65307,Cash On Delivery,Karnataka,India,4
+ORD100841,2026-04-21,CUST7941,Fashion,Shoes,2,892,1784,Upi,West Bengal,India,4
+ORD100842,2026-04-22,CUST5820,Home & Kitchen,Cookware Set,2,28596,57192,Credit Card,Rajasthan,India,4
+ORD100843,2026-04-23,CUST3898,Fashion,Jacket,3,9516,28548,Debit Card,Gujarat,India,4
+ORD100844,2026-04-24,CUST8546,Grocery,Cooking Oil,1,2280,2280,Upi,Gujarat,India,4
+ORD100845,2026-04-25,CUST1077,Fashion,Shoes,3,20078,60234,Credit Card,Maharashtra,India,4
+ORD100846,2026-04-26,CUST8577,Grocery,Tea 1Kg,5,1384,6920,Credit Card,Delhi,India,4
+ORD100847,2026-04-27,CUST5227,Grocery,Atta 10Kg,2,22395,44790,Cash On Delivery,West Bengal,India,4
+ORD100848,2026-04-28,CUST1600,Home & Kitchen,Bedsheet,3,16281,48843,Credit Card,Karnataka,India,4
+ORD100849,2026-04-29,CUST2065,Grocery,Cooking Oil,1,16166,16166,Debit Card,Gujarat,India,4
+ORD100850,2026-04-30,CUST3136,Fashion,Jeans,2,28043,56086,Credit Card,Maharashtra,India,4
+ORD100851,2026-05-01,CUST7943,Grocery,Tea 1Kg,2,19827,39654,Credit Card,Rajasthan,India,5
+ORD100852,2026-05-02,CUST8804,Electronics,Smartphone,5,9982,49910,Cash On Delivery,Delhi,India,5
+ORD100853,2026-05-03,CUST7565,Fashion,Jacket,4,12666,50664,Upi,Maharashtra,India,5
+ORD100854,2026-05-04,CUST6984,Home & Kitchen,Mixer Grinder,5,19358,96790,Credit Card,West Bengal,India,5
+ORD100855,2026-05-05,CUST6142,Grocery,Tea 1Kg,3,17937,53811,Debit Card,Delhi,India,5
+ORD100856,2026-05-06,CUST5670,Home & Kitchen,Bedsheet,5,18754,93770,Debit Card,Delhi,India,5
+ORD100857,2026-05-07,CUST3190,Home & Kitchen,Water Bottle,5,15510,77550,Credit Card,Delhi,India,5
+ORD100858,2026-05-08,CUST3712,Fashion,Jeans,5,11610,58050,Cash On Delivery,Delhi,India,5
+ORD100859,2026-05-09,CUST3192,Home & Kitchen,Water Bottle,4,10106,40424,Debit Card,West Bengal,India,5
+ORD100860,2026-05-10,CUST2248,Grocery,Tea 1Kg,5,28042,140210,Cash On Delivery,Maharashtra,India,5
+ORD100861,2026-05-11,CUST5033,Grocery,Rice 5Kg,1,6670,6670,Credit Card,Rajasthan,India,5
+ORD100862,2026-05-12,CUST2997,Electronics,Smartphone,5,26227,131135,Credit Card,Maharashtra,India,5
+ORD100863,2026-05-13,CUST4687,Beauty,Lipstick,1,4256,4256,Cash On Delivery,Gujarat,India,5
+ORD100864,2026-05-14,CUST5018,Electronics,Smartphone,4,1889,7556,Cash On Delivery,Rajasthan,India,5
+ORD100865,2026-05-15,CUST2970,Electronics,Tablet,1,4062,4062,Credit Card,Delhi,India,5
+ORD100866,2026-05-16,CUST9389,Grocery,Atta 10Kg,1,5849,5849,Upi,Rajasthan,India,5
+ORD100867,2026-05-17,CUST6765,Beauty,Hair Dryer,4,27481,109924,Cash On Delivery,Delhi,India,5
+ORD100868,2026-05-18,CUST2202,Electronics,Tablet,3,1279,3837,Cash On Delivery,Delhi,India,5
+ORD100869,2026-05-19,CUST9135,Electronics,Tablet,4,27304,109216,Credit Card,Karnataka,India,5
+ORD100870,2026-05-20,CUST6567,Electronics,Laptop,3,27745,83235,Cash On Delivery,Rajasthan,India,5
+ORD100871,2026-05-21,CUST8667,Grocery,Rice 5Kg,5,16096,80480,Credit Card,Karnataka,India,5
+ORD100872,2026-05-22,CUST6742,Home & Kitchen,Bedsheet,2,9481,18962,Debit Card,Gujarat,India,5
+ORD100873,2026-05-23,CUST6788,Grocery,Cooking Oil,4,17078,68312,Credit Card,West Bengal,India,5
+ORD100874,2026-05-24,CUST6408,Electronics,Headphones,3,28906,86718,Credit Card,West Bengal,India,5
+ORD100875,2026-05-25,CUST9669,Grocery,Tea 1Kg,1,13192,13192,Debit Card,Delhi,India,5
+ORD100876,2026-05-26,CUST1922,Beauty,Hair Dryer,4,21118,84472,Cash On Delivery,Karnataka,India,5
+ORD100877,2026-05-27,CUST1419,Fashion,Jeans,1,3162,3162,Debit Card,Karnataka,India,5
+ORD100878,2026-05-28,CUST3204,Fashion,T-Shirt,1,23788,23788,Debit Card,Gujarat,India,5
+ORD100879,2026-05-29,CUST2120,Home & Kitchen,Bedsheet,3,17775,53325,Upi,Rajasthan,India,5
+ORD100880,2026-05-30,CUST1950,Fashion,Shoes,4,12471,49884,Cash On Delivery,Delhi,India,5
+ORD100881,2026-05-31,CUST3336,Grocery,Cooking Oil,4,9854,39416,Upi,Rajasthan,India,5
+ORD100882,2026-06-01,CUST6373,Home & Kitchen,Water Bottle,5,6240,31200,Upi,Maharashtra,India,6
+ORD100883,2026-06-02,CUST3243,Beauty,Lipstick,3,16434,49302,Upi,Rajasthan,India,6
+ORD100884,2026-06-03,CUST3645,Beauty,Hair Dryer,1,18524,18524,Debit Card,Maharashtra,India,6
+ORD100885,2026-06-04,CUST5612,Beauty,Face Cream,4,5785,23140,Debit Card,Delhi,India,6
+ORD100886,2026-06-05,CUST2865,Beauty,Hair Dryer,2,13943,27886,Debit Card,Karnataka,India,6
+ORD100887,2026-06-06,CUST7028,Beauty,Face Cream,5,2356,11780,Debit Card,Maharashtra,India,6
+ORD100888,2026-06-07,CUST8326,Grocery,Cooking Oil,5,14100,70500,Debit Card,Maharashtra,India,6
+ORD100889,2026-06-08,CUST7371,Fashion,T-Shirt,5,1827,9135,Cash On Delivery,Maharashtra,India,6
+ORD100890,2026-06-09,CUST7359,Electronics,Laptop,1,28929,28929,Upi,Gujarat,India,6
+ORD100891,2026-06-10,CUST8863,Beauty,Face Cream,5,19181,95905,Upi,Rajasthan,India,6
+ORD100892,2026-06-11,CUST4228,Beauty,Hair Dryer,2,13258,26516,Debit Card,West Bengal,India,6
+ORD100893,2026-06-12,CUST4719,Electronics,Headphones,2,22663,45326,Cash On Delivery,Maharashtra,India,6
+ORD100894,2026-06-13,CUST3371,Grocery,Tea 1Kg,5,17642,88210,Upi,Rajasthan,India,6
+ORD100895,2026-06-14,CUST3891,Fashion,T-Shirt,5,28792,143960,Credit Card,Karnataka,India,6
+ORD100896,2026-06-15,CUST4756,Beauty,Hair Dryer,1,26537,26537,Debit Card,West Bengal,India,6
+ORD100897,2026-06-16,CUST5225,Beauty,Face Cream,3,27664,82992,Credit Card,Maharashtra,India,6
+ORD100898,2026-06-17,CUST1094,Beauty,Face Cream,2,18455,36910,Cash On Delivery,Karnataka,India,6
+ORD100899,2026-06-18,CUST3674,Home & Kitchen,Cookware Set,1,16452,16452,Credit Card,West Bengal,India,6
+ORD100900,2026-06-19,CUST7898,Grocery,Cooking Oil,1,6391,6391,Debit Card,Delhi,India,6
+ORD100901,2026-06-20,CUST1793,Home & Kitchen,Cookware Set,1,23483,23483,Cash On Delivery,Gujarat,India,6
+ORD100902,2026-06-21,CUST3116,Fashion,T-Shirt,1,17062,17062,Debit Card,Karnataka,India,6
+ORD100903,2026-06-22,CUST6779,Electronics,Smartwatch,1,6497,6497,Upi,Karnataka,India,6
+ORD100904,2026-06-23,CUST7166,Beauty,Face Cream,4,29964,119856,Cash On Delivery,West Bengal,India,6
+ORD100905,2026-06-24,CUST1814,Home & Kitchen,Bedsheet,2,3876,7752,Cash On Delivery,West Bengal,India,6
+ORD100906,2026-06-25,CUST1345,Home & Kitchen,Mixer Grinder,2,11652,23304,Cash On Delivery,Maharashtra,India,6
+ORD100907,2026-06-26,CUST9554,Beauty,Lipstick,1,13477,13477,Debit Card,West Bengal,India,6
+ORD100908,2026-06-27,CUST3443,Beauty,Face Cream,5,24049,120245,Cash On Delivery,West Bengal,India,6
+ORD100909,2026-06-28,CUST8783,Grocery,Tea 1Kg,5,29969,149845,Cash On Delivery,Karnataka,India,6
+ORD100910,2026-06-29,CUST1984,Electronics,Tablet,2,26557,53114,Debit Card,Karnataka,India,6
+ORD100911,2026-06-30,CUST8790,Grocery,Atta 10Kg,5,11669,58345,Debit Card,Gujarat,India,6
+ORD100912,2026-07-01,CUST1827,Grocery,Atta 10Kg,1,998,998,Cash On Delivery,Gujarat,India,7
+ORD100913,2026-07-02,CUST4531,Fashion,Jeans,1,4788,4788,Upi,Gujarat,India,7
+ORD100914,2026-07-03,CUST8147,Grocery,Cooking Oil,4,1329,5316,Debit Card,Rajasthan,India,7
+ORD100915,2026-07-04,CUST5451,Home & Kitchen,Bedsheet,2,3133,6266,Cash On Delivery,Karnataka,India,7
+ORD100916,2026-07-05,CUST4876,Grocery,Atta 10Kg,3,7299,21897,Credit Card,Delhi,India,7
+ORD100917,2026-07-06,CUST6959,Electronics,Tablet,1,1715,1715,Debit Card,Delhi,India,7
+ORD100918,2026-07-07,CUST1126,Electronics,Headphones,4,24270,97080,Debit Card,Rajasthan,India,7
+ORD100919,2026-07-08,CUST4177,Electronics,Smartphone,3,20239,60717,Cash On Delivery,Gujarat,India,7
+ORD100920,2026-07-09,CUST9795,Fashion,Jeans,2,9688,19376,Upi,West Bengal,India,7
+ORD100921,2026-07-10,CUST7024,Beauty,Hair Dryer,2,6891,13782,Credit Card,Maharashtra,India,7
+ORD100922,2026-07-11,CUST6109,Home & Kitchen,Bedsheet,5,19781,98905,Debit Card,Maharashtra,India,7
+ORD100923,2026-07-12,CUST5146,Electronics,Headphones,2,11846,23692,Credit Card,Delhi,India,7
+ORD100924,2026-07-13,CUST8196,Home & Kitchen,Water Bottle,3,13586,40758,Upi,Rajasthan,India,7
+ORD100925,2026-07-14,CUST4368,Beauty,Hair Dryer,5,21245,106225,Debit Card,Rajasthan,India,7
+ORD100926,2026-07-15,CUST4797,Beauty,Lipstick,3,15440,46320,Upi,West Bengal,India,7
+ORD100927,2026-07-16,CUST2792,Grocery,Atta 10Kg,4,11498,45992,Debit Card,Delhi,India,7
+ORD100928,2026-07-17,CUST6732,Grocery,Tea 1Kg,3,18338,55014,Debit Card,Rajasthan,India,7
+ORD100929,2026-07-18,CUST4476,Fashion,Jeans,1,13634,13634,Credit Card,Delhi,India,7
+ORD100930,2026-07-19,CUST4417,Grocery,Rice 5Kg,2,27398,54796,Upi,Karnataka,India,7
+ORD100931,2026-07-20,CUST2645,Electronics,Headphones,1,28586,28586,Cash On Delivery,West Bengal,India,7
+ORD100932,2026-07-21,CUST4030,Beauty,Lipstick,3,8507,25521,Debit Card,Rajasthan,India,7
+ORD100933,2026-07-22,CUST3872,Grocery,Rice 5Kg,1,19523,19523,Debit Card,Karnataka,India,7
+ORD100934,2026-07-23,CUST4072,Home & Kitchen,Cookware Set,2,5654,11308,Debit Card,Rajasthan,India,7
+ORD100935,2026-07-24,CUST2854,Home & Kitchen,Water Bottle,3,21381,64143,Upi,West Bengal,India,7
+ORD100936,2026-07-25,CUST5021,Home & Kitchen,Water Bottle,5,10343,51715,Cash On Delivery,Rajasthan,India,7
+ORD100937,2026-07-26,CUST5662,Electronics,Smartwatch,1,8937,8937,Debit Card,Rajasthan,India,7
+ORD100938,2026-07-27,CUST7514,Fashion,Shoes,1,15908,15908,Credit Card,Gujarat,India,7
+ORD100939,2026-07-28,CUST6031,Grocery,Atta 10Kg,5,25696,128480,Credit Card,Rajasthan,India,7
+ORD100940,2026-07-29,CUST3708,Beauty,Hair Dryer,2,13868,27736,Upi,Rajasthan,India,7
+ORD100941,2026-07-30,CUST8112,Grocery,Tea 1Kg,5,16004,80020,Credit Card,West Bengal,India,7
+ORD100942,2026-07-31,CUST9393,Beauty,Face Cream,2,19265,38530,Debit Card,Maharashtra,India,7
+ORD100943,2026-08-01,CUST4507,Electronics,Laptop,2,17180,34360,Credit Card,Gujarat,India,8
+ORD100944,2026-08-02,CUST7456,Electronics,Smartphone,5,23820,119100,Cash On Delivery,Karnataka,India,8
+ORD100945,2026-08-03,CUST5212,Beauty,Face Cream,5,13999,69995,Upi,Maharashtra,India,8
+ORD100946,2026-08-04,CUST8970,Home & Kitchen,Mixer Grinder,2,25040,50080,Cash On Delivery,Delhi,India,8
+ORD100947,2026-08-05,CUST9766,Home & Kitchen,Bedsheet,5,9837,49185,Credit Card,Delhi,India,8
+ORD100948,2026-08-06,CUST1536,Electronics,Laptop,1,29766,29766,Upi,Maharashtra,India,8
+ORD100949,2026-08-07,CUST2625,Fashion,Jacket,5,3353,16765,Debit Card,Delhi,India,8
+ORD100950,2026-08-08,CUST8973,Beauty,Lipstick,1,27107,27107,Upi,Gujarat,India,8
+ORD100951,2026-08-09,CUST9577,Fashion,Jacket,2,22302,44604,Credit Card,Gujarat,India,8
+ORD100952,2026-08-10,CUST9070,Electronics,Smartwatch,2,2941,5882,Upi,West Bengal,India,8
+ORD100953,2026-08-11,CUST9666,Grocery,Atta 10Kg,5,25201,126005,Debit Card,Maharashtra,India,8
+ORD100954,2026-08-12,CUST9609,Home & Kitchen,Bedsheet,3,3009,9027,Credit Card,Gujarat,India,8
+ORD100955,2026-08-13,CUST7490,Fashion,Jeans,2,14129,28258,Credit Card,Rajasthan,India,8
+ORD100956,2026-08-14,CUST4600,Home & Kitchen,Mixer Grinder,4,6837,27348,Cash On Delivery,Maharashtra,India,8
+ORD100957,2026-08-15,CUST7783,Home & Kitchen,Bedsheet,5,19548,97740,Credit Card,Gujarat,India,8
+ORD100958,2026-08-16,CUST5971,Electronics,Headphones,4,7665,30660,Cash On Delivery,Delhi,India,8
+ORD100959,2026-08-17,CUST2205,Beauty,Hair Dryer,4,6303,25212,Credit Card,Delhi,India,8
+ORD100960,2026-08-18,CUST2990,Electronics,Smartphone,1,4831,4831,Credit Card,Delhi,India,8
+ORD100961,2026-08-19,CUST6299,Electronics,Tablet,3,29445,88335,Upi,Rajasthan,India,8
+ORD100962,2026-08-20,CUST4572,Beauty,Lipstick,5,26298,131490,Credit Card,Maharashtra,India,8
+ORD100963,2026-08-21,CUST6975,Home & Kitchen,Mixer Grinder,2,20414,40828,Upi,Gujarat,India,8
+ORD100964,2026-08-22,CUST7320,Electronics,Headphones,3,15104,45312,Credit Card,Karnataka,India,8
+ORD100965,2026-08-23,CUST5380,Beauty,Hair Dryer,5,29691,148455,Upi,West Bengal,India,8
+ORD100966,2026-08-24,CUST5757,Grocery,Rice 5Kg,3,9288,27864,Upi,Delhi,India,8
+ORD100967,2026-08-25,CUST3713,Grocery,Tea 1Kg,4,260,1040,Cash On Delivery,Rajasthan,India,8
+ORD100968,2026-08-26,CUST6588,Home & Kitchen,Water Bottle,4,12552,50208,Credit Card,Karnataka,India,8
+ORD100969,2026-08-27,CUST1966,Beauty,Face Cream,1,12162,12162,Upi,Karnataka,India,8
+ORD100970,2026-08-28,CUST5944,Fashion,Jeans,2,7157,14314,Cash On Delivery,West Bengal,India,8
+ORD100971,2026-08-29,CUST4432,Beauty,Hair Dryer,2,27257,54514,Upi,West Bengal,India,8
+ORD100972,2026-08-30,CUST1688,Grocery,Tea 1Kg,1,15899,15899,Credit Card,Maharashtra,India,8
+ORD100973,2026-08-31,CUST5243,Grocery,Cooking Oil,3,24665,73995,Upi,Rajasthan,India,8
+ORD100974,2026-09-01,CUST4701,Electronics,Laptop,5,29262,146310,Debit Card,Karnataka,India,9
+ORD100975,2026-09-02,CUST9533,Home & Kitchen,Mixer Grinder,4,11060,44240,Upi,Delhi,India,9
+ORD100976,2026-09-03,CUST6182,Grocery,Rice 5Kg,2,18174,36348,Upi,Gujarat,India,9
+ORD100977,2026-09-04,CUST7704,Grocery,Cooking Oil,3,26902,80706,Debit Card,Delhi,India,9
+ORD100978,2026-09-05,CUST5422,Grocery,Cooking Oil,1,19312,19312,Credit Card,Delhi,India,9
+ORD100979,2026-09-06,CUST2759,Home & Kitchen,Bedsheet,1,15560,15560,Credit Card,West Bengal,India,9
+ORD100980,2026-09-07,CUST3482,Fashion,Jacket,2,2830,5660,Credit Card,Gujarat,India,9
+ORD100981,2026-09-08,CUST9058,Fashion,T-Shirt,4,23960,95840,Credit Card,Maharashtra,India,9
+ORD100982,2026-09-09,CUST1951,Beauty,Perfume,2,14330,28660,Cash On Delivery,Karnataka,India,9
+ORD100983,2026-09-10,CUST9914,Electronics,Headphones,4,6040,24160,Debit Card,Rajasthan,India,9
+ORD100984,2026-09-11,CUST3079,Home & Kitchen,Cookware Set,2,21318,42636,Credit Card,Karnataka,India,9
+ORD100985,2026-09-12,CUST3717,Grocery,Atta 10Kg,1,7582,7582,Credit Card,Karnataka,India,9
+ORD100986,2026-09-13,CUST5524,Home & Kitchen,Mixer Grinder,3,2321,6963,Upi,Maharashtra,India,9
+ORD100987,2026-09-14,CUST9477,Beauty,Face Cream,1,29300,29300,Cash On Delivery,Rajasthan,India,9
+ORD100988,2026-09-15,CUST8311,Electronics,Smartphone,5,5120,25600,Cash On Delivery,Gujarat,India,9
+ORD100989,2026-09-16,CUST8186,Electronics,Tablet,1,19467,19467,Upi,Maharashtra,India,9
+ORD100990,2026-09-17,CUST3065,Grocery,Cooking Oil,2,18322,36644,Upi,West Bengal,India,9
+ORD100991,2026-09-18,CUST1768,Home & Kitchen,Bedsheet,5,351,1755,Upi,Gujarat,India,9
+ORD100992,2026-09-19,CUST6490,Electronics,Laptop,2,695,1390,Upi,Karnataka,India,9
+ORD100993,2026-09-20,CUST7645,Grocery,Cooking Oil,1,18704,18704,Upi,Rajasthan,India,9
+ORD100994,2026-09-21,CUST6083,Grocery,Atta 10Kg,4,24089,96356,Cash On Delivery,Delhi,India,9
+ORD100995,2026-09-22,CUST6232,Beauty,Lipstick,1,11668,11668,Debit Card,Delhi,India,9
+ORD100996,2026-09-23,CUST6797,Fashion,T-Shirt,3,19489,58467,Credit Card,Karnataka,India,9
+ORD100997,2026-09-24,CUST5926,Electronics,Laptop,2,8053,16106,Upi,Karnataka,India,9
+ORD100998,2026-09-25,CUST7016,Home & Kitchen,Water Bottle,5,27978,139890,Upi,Gujarat,India,9
+ORD100999,2026-09-26,CUST4335,Home & Kitchen,Bedsheet,1,24680,24680,Upi,Karnataka,India,9
+ORD101000,2026-09-27,CUST9038,Beauty,Perfume,1,29438,29438,Debit Card,Gujarat,India,9
+ORD101001,2026-09-28,CUST5873,Fashion,Jacket,5,20285,101425,Credit Card,Rajasthan,India,9
+ORD101002,2026-09-29,CUST2481,Fashion,Jacket,5,23549,117745,Upi,Rajasthan,India,9
+ORD101003,2026-09-30,CUST7305,Electronics,Smartphone,2,19095,38190,Cash On Delivery,Gujarat,India,9
+ORD101004,2026-10-01,CUST4451,Grocery,Atta 10Kg,4,11597,46388,Cash On Delivery,Karnataka,India,10
+ORD101005,2026-10-02,CUST1054,Electronics,Headphones,2,4385,8770,Debit Card,Rajasthan,India,10
+ORD101006,2026-10-03,CUST8643,Electronics,Laptop,1,16884,16884,Debit Card,Karnataka,India,10
+ORD101007,2026-10-04,CUST4462,Beauty,Lipstick,4,28612,114448,Debit Card,Gujarat,India,10
+ORD101008,2026-10-05,CUST1832,Home & Kitchen,Cookware Set,4,11749,46996,Cash On Delivery,Maharashtra,India,10
+ORD101009,2026-10-06,CUST6954,Home & Kitchen,Water Bottle,1,15316,15316,Cash On Delivery,Rajasthan,India,10
+ORD101010,2026-10-07,CUST9519,Home & Kitchen,Water Bottle,2,7267,14534,Cash On Delivery,Karnataka,India,10
+ORD101011,2026-10-08,CUST8221,Home & Kitchen,Cookware Set,1,22814,22814,Debit Card,West Bengal,India,10
+ORD101012,2026-10-09,CUST4310,Electronics,Tablet,2,1499,2998,Credit Card,Delhi,India,10
+ORD101013,2026-10-10,CUST4300,Beauty,Perfume,4,28655,114620,Cash On Delivery,Gujarat,India,10
+ORD101014,2026-10-11,CUST7722,Fashion,Shoes,3,19305,57915,Upi,Karnataka,India,10
+ORD101015,2026-10-12,CUST8218,Grocery,Tea 1Kg,4,16861,67444,Cash On Delivery,Gujarat,India,10
+ORD101016,2026-10-13,CUST8776,Fashion,Jeans,5,19706,98530,Credit Card,Delhi,India,10
+ORD101017,2026-10-14,CUST4675,Fashion,Jeans,5,23084,115420,Upi,Delhi,India,10
+ORD101018,2026-10-15,CUST4054,Beauty,Perfume,3,12865,38595,Debit Card,West Bengal,India,10
+ORD101019,2026-10-16,CUST8970,Grocery,Rice 5Kg,1,3542,3542,Upi,Delhi,India,10
+ORD101020,2026-10-17,CUST3143,Electronics,Laptop,5,1372,6860,Debit Card,Maharashtra,India,10
+ORD101021,2026-10-18,CUST6207,Home & Kitchen,Water Bottle,5,8938,44690,Debit Card,Rajasthan,India,10
+ORD101022,2026-10-19,CUST3538,Home & Kitchen,Water Bottle,4,10558,42232,Credit Card,Rajasthan,India,10
+ORD101023,2026-10-20,CUST5547,Electronics,Laptop,2,2136,4272,Debit Card,Maharashtra,India,10
+ORD101024,2026-10-21,CUST6619,Beauty,Face Cream,4,25646,102584,Credit Card,Karnataka,India,10
+ORD101025,2026-10-22,CUST9356,Grocery,Cooking Oil,2,5404,10808,Upi,Rajasthan,India,10
+ORD101026,2026-10-23,CUST7612,Fashion,Shoes,5,218,1090,Cash On Delivery,Gujarat,India,10
+ORD101027,2026-10-24,CUST6005,Electronics,Laptop,2,973,1946,Debit Card,West Bengal,India,10
+ORD101028,2026-10-25,CUST1822,Beauty,Perfume,1,27718,27718,Upi,Karnataka,India,10
+ORD101029,2026-10-26,CUST1943,Home & Kitchen,Water Bottle,2,1874,3748,Upi,Karnataka,India,10
+ORD101030,2026-10-27,CUST7150,Fashion,Shoes,5,27035,135175,Upi,Karnataka,India,10
+ORD101031,2026-10-28,CUST5425,Home & Kitchen,Water Bottle,5,22229,111145,Credit Card,Rajasthan,India,10
+ORD101032,2026-10-29,CUST9966,Grocery,Cooking Oil,5,18867,94335,Credit Card,Gujarat,India,10
+ORD101033,2026-10-30,CUST3198,Fashion,Jacket,1,13640,13640,Credit Card,Gujarat,India,10
+ORD101034,2026-10-31,CUST5242,Grocery,Tea 1Kg,4,6161,24644,Credit Card,Rajasthan,India,10
+ORD101035,2026-11-01,CUST4695,Electronics,Headphones,2,15853,31706,Credit Card,Delhi,India,11
+ORD101036,2026-11-02,CUST4452,Grocery,Tea 1Kg,5,6400,32000,Debit Card,Rajasthan,India,11
+ORD101037,2026-11-03,CUST2308,Electronics,Headphones,2,24703,49406,Upi,Karnataka,India,11
+ORD101038,2026-11-04,CUST5177,Fashion,Jacket,4,22519,90076,Debit Card,Gujarat,India,11
+ORD101039,2026-11-05,CUST9705,Home & Kitchen,Cookware Set,1,7547,7547,Cash On Delivery,Gujarat,India,11
+ORD101040,2026-11-06,CUST7852,Home & Kitchen,Cookware Set,1,5138,5138,Upi,Gujarat,India,11
+ORD101041,2026-11-07,CUST7035,Fashion,Jacket,5,22502,112510,Upi,Maharashtra,India,11
+ORD101042,2026-11-08,CUST4594,Home & Kitchen,Cookware Set,1,18860,18860,Cash On Delivery,Gujarat,India,11
+ORD101043,2026-11-09,CUST5841,Beauty,Perfume,2,23748,47496,Credit Card,Rajasthan,India,11
+ORD101044,2026-11-10,CUST2409,Grocery,Cooking Oil,4,16892,67568,Debit Card,Gujarat,India,11
+ORD101045,2026-11-11,CUST5566,Fashion,T-Shirt,3,16777,50331,Credit Card,Gujarat,India,11
+ORD101046,2026-11-12,CUST5491,Fashion,T-Shirt,5,28655,143275,Cash On Delivery,Maharashtra,India,11
+ORD101047,2026-11-13,CUST2555,Home & Kitchen,Bedsheet,2,29612,59224,Debit Card,Rajasthan,India,11
+ORD101048,2026-11-14,CUST1804,Home & Kitchen,Bedsheet,3,19965,59895,Cash On Delivery,Maharashtra,India,11
+ORD101049,2026-11-15,CUST2279,Home & Kitchen,Mixer Grinder,1,2127,2127,Upi,Gujarat,India,11
+ORD101050,2026-11-16,CUST8083,Grocery,Cooking Oil,5,26138,130690,Debit Card,West Bengal,India,11
+ORD101051,2026-11-17,CUST6986,Home & Kitchen,Water Bottle,3,15233,45699,Debit Card,Gujarat,India,11
+ORD101052,2026-11-18,CUST6619,Fashion,Shoes,3,17715,53145,Credit Card,Karnataka,India,11
+ORD101053,2026-11-19,CUST2387,Grocery,Rice 5Kg,4,13769,55076,Debit Card,West Bengal,India,11
+ORD101054,2026-11-20,CUST3679,Home & Kitchen,Cookware Set,4,6359,25436,Cash On Delivery,Rajasthan,India,11
+ORD101055,2026-11-21,CUST3106,Electronics,Smartwatch,5,5836,29180,Credit Card,Delhi,India,11
+ORD101056,2026-11-22,CUST9173,Fashion,T-Shirt,1,6012,6012,Credit Card,Rajasthan,India,11
+ORD101057,2026-11-23,CUST5223,Home & Kitchen,Water Bottle,4,29287,117148,Debit Card,Delhi,India,11
+ORD101058,2026-11-24,CUST5831,Fashion,T-Shirt,1,29771,29771,Cash On Delivery,Delhi,India,11
+ORD101059,2026-11-25,CUST3768,Home & Kitchen,Mixer Grinder,5,20318,101590,Upi,West Bengal,India,11
+ORD101060,2026-11-26,CUST4186,Grocery,Rice 5Kg,1,20898,20898,Debit Card,West Bengal,India,11
+ORD101061,2026-11-27,CUST3573,Beauty,Lipstick,5,8646,43230,Cash On Delivery,Karnataka,India,11
+ORD101062,2026-11-28,CUST3599,Grocery,Cooking Oil,1,14835,14835,Credit Card,Karnataka,India,11
+ORD101063,2026-11-29,CUST5033,Grocery,Tea 1Kg,1,26531,26531,Cash On Delivery,Maharashtra,India,11
+ORD101064,2026-11-30,CUST9428,Grocery,Cooking Oil,4,12157,48628,Cash On Delivery,Karnataka,India,11
+ORD101065,2026-12-01,CUST2304,Beauty,Face Cream,2,1077,2154,Upi,Gujarat,India,12
+ORD101066,2026-12-02,CUST8368,Home & Kitchen,Mixer Grinder,2,2837,5674,Credit Card,Delhi,India,12
+ORD101067,2026-12-03,CUST6877,Fashion,T-Shirt,1,28942,28942,Cash On Delivery,Maharashtra,India,12
+ORD101068,2026-12-04,CUST2301,Grocery,Tea 1Kg,3,28433,85299,Upi,Delhi,India,12
+ORD101069,2026-12-05,CUST3541,Grocery,Rice 5Kg,3,4477,13431,Credit Card,Delhi,India,12
+ORD101070,2026-12-06,CUST3051,Fashion,Shoes,4,15398,61592,Cash On Delivery,Gujarat,India,12
+ORD101071,2026-12-07,CUST7809,Fashion,T-Shirt,4,3881,15524,Upi,Karnataka,India,12
+ORD101072,2026-12-08,CUST9633,Beauty,Face Cream,5,9724,48620,Debit Card,Gujarat,India,12
+ORD101073,2026-12-09,CUST9996,Beauty,Hair Dryer,1,12478,12478,Upi,Gujarat,India,12
+ORD101074,2026-12-10,CUST1074,Fashion,T-Shirt,1,24006,24006,Credit Card,West Bengal,India,12
+ORD101075,2026-12-11,CUST7981,Fashion,Shoes,4,7995,31980,Credit Card,West Bengal,India,12
+ORD101076,2026-12-12,CUST6475,Home & Kitchen,Mixer Grinder,2,24536,49072,Debit Card,Delhi,India,12
+ORD101077,2026-12-13,CUST9232,Beauty,Hair Dryer,2,16317,32634,Upi,Gujarat,India,12
+ORD101078,2026-12-14,CUST8184,Fashion,T-Shirt,3,13456,40368,Debit Card,Karnataka,India,12
+ORD101079,2026-12-15,CUST6796,Home & Kitchen,Mixer Grinder,3,6130,18390,Debit Card,Gujarat,India,12
+ORD101080,2026-12-16,CUST8141,Electronics,Tablet,2,3351,6702,Debit Card,Maharashtra,India,12
+ORD101081,2026-12-17,CUST2622,Grocery,Atta 10Kg,3,7819,23457,Cash On Delivery,Rajasthan,India,12
+ORD101082,2026-12-18,CUST9041,Fashion,Jeans,1,7197,7197,Upi,Gujarat,India,12
+ORD101083,2026-12-19,CUST1341,Home & Kitchen,Bedsheet,4,23544,94176,Debit Card,Karnataka,India,12
+ORD101084,2026-12-20,CUST3074,Grocery,Tea 1Kg,4,12326,49304,Debit Card,Karnataka,India,12
+ORD101085,2026-12-21,CUST8992,Home & Kitchen,Bedsheet,5,11547,57735,Cash On Delivery,Karnataka,India,12
+ORD101086,2026-12-22,CUST1645,Grocery,Rice 5Kg,1,3257,3257,Upi,West Bengal,India,12
+ORD101087,2026-12-23,CUST5263,Beauty,Hair Dryer,5,15961,79805,Credit Card,Rajasthan,India,12
+ORD101088,2026-12-24,CUST9801,Fashion,Jacket,4,15355,61420,Upi,Delhi,India,12
+ORD101089,2026-12-25,CUST7136,Fashion,Jeans,1,6771,6771,Cash On Delivery,West Bengal,India,12
+ORD101090,2026-12-26,CUST9646,Beauty,Hair Dryer,2,6668,13336,Cash On Delivery,Gujarat,India,12
+ORD101091,2026-12-27,CUST3969,Home & Kitchen,Mixer Grinder,5,29102,145510,Credit Card,West Bengal,India,12
+ORD101092,2026-12-28,CUST4028,Home & Kitchen,Cookware Set,3,1667,5001,Upi,Delhi,India,12
+ORD101093,2026-12-29,CUST8643,Electronics,Tablet,1,12206,12206,Upi,Rajasthan,India,12
+ORD101094,2026-12-30,CUST3681,Grocery,Rice 5Kg,1,1368,1368,Credit Card,West Bengal,India,12
+ORD101095,2026-12-31,CUST4629,Electronics,Tablet,5,19951,99755,Debit Card,Rajasthan,India,12
+ORD101096,2027-01-01,CUST5225,Beauty,Lipstick,2,16212,32424,Cash On Delivery,Rajasthan,India,1
+ORD101097,2027-01-02,CUST4067,Electronics,Smartwatch,3,20600,61800,Credit Card,Karnataka,India,1
+ORD101098,2027-01-03,CUST6941,Fashion,Shoes,1,21576,21576,Debit Card,Gujarat,India,1
+ORD101099,2027-01-04,CUST2386,Grocery,Tea 1Kg,4,21595,86380,Credit Card,Rajasthan,India,1
+ORD101100,2027-01-05,CUST3866,Electronics,Tablet,5,18396,91980,Debit Card,Gujarat,India,1
+ORD101101,2027-01-06,CUST5788,Electronics,Smartwatch,3,1607,4821,Upi,Maharashtra,India,1
+ORD101102,2027-01-07,CUST6490,Grocery,Atta 10Kg,2,20956,41912,Upi,Delhi,India,1
+ORD101103,2027-01-08,CUST5124,Beauty,Face Cream,5,1197,5985,Debit Card,West Bengal,India,1
+ORD101104,2027-01-09,CUST9340,Fashion,Jacket,4,28713,114852,Cash On Delivery,West Bengal,India,1
+ORD101105,2027-01-10,CUST4850,Beauty,Face Cream,5,5816,29080,Upi,Maharashtra,India,1
+ORD101106,2027-01-11,CUST6415,Grocery,Cooking Oil,3,22938,68814,Debit Card,Rajasthan,India,1
+ORD101107,2027-01-12,CUST8679,Home & Kitchen,Cookware Set,3,15323,45969,Upi,Maharashtra,India,1
+ORD101108,2027-01-13,CUST7819,Beauty,Perfume,2,774,1548,Cash On Delivery,Rajasthan,India,1
+ORD101109,2027-01-14,CUST9378,Beauty,Face Cream,5,29294,146470,Upi,Gujarat,India,1
+ORD101110,2027-01-15,CUST2333,Beauty,Perfume,1,5870,5870,Cash On Delivery,Karnataka,India,1
+ORD101111,2027-01-16,CUST5150,Grocery,Tea 1Kg,1,8037,8037,Cash On Delivery,Karnataka,India,1
+ORD101112,2027-01-17,CUST7766,Grocery,Rice 5Kg,4,8698,34792,Upi,Rajasthan,India,1
+ORD101113,2027-01-18,CUST3711,Home & Kitchen,Cookware Set,1,17306,17306,Credit Card,Karnataka,India,1
+ORD101114,2027-01-19,CUST5853,Electronics,Headphones,3,21982,65946,Upi,Maharashtra,India,1
+ORD101115,2027-01-20,CUST7212,Fashion,T-Shirt,4,17503,70012,Upi,Karnataka,India,1
+ORD101116,2027-01-21,CUST8479,Beauty,Hair Dryer,3,23962,71886,Cash On Delivery,West Bengal,India,1
+ORD101117,2027-01-22,CUST6408,Fashion,T-Shirt,5,10872,54360,Upi,West Bengal,India,1
+ORD101118,2027-01-23,CUST8715,Home & Kitchen,Bedsheet,3,2050,6150,Debit Card,Rajasthan,India,1
+ORD101119,2027-01-24,CUST9942,Fashion,Shoes,2,10295,20590,Cash On Delivery,Rajasthan,India,1
+ORD101120,2027-01-25,CUST2762,Beauty,Lipstick,2,16578,33156,Upi,Maharashtra,India,1
+ORD101121,2027-01-26,CUST8101,Home & Kitchen,Water Bottle,2,16398,32796,Credit Card,Karnataka,India,1
+ORD101122,2027-01-27,CUST8674,Fashion,Shoes,3,6854,20562,Debit Card,Maharashtra,India,1
+ORD101123,2027-01-28,CUST7122,Electronics,Headphones,3,21273,63819,Credit Card,West Bengal,India,1
+ORD101124,2027-01-29,CUST1481,Fashion,Shoes,4,6510,26040,Cash On Delivery,Karnataka,India,1
+ORD101125,2027-01-30,CUST1153,Electronics,Tablet,4,18825,75300,Credit Card,Delhi,India,1
+ORD101126,2027-01-31,CUST8617,Fashion,T-Shirt,4,24214,96856,Upi,Maharashtra,India,1
+ORD101127,2027-02-01,CUST2524,Electronics,Tablet,2,6476,12952,Credit Card,Karnataka,India,2
+ORD101128,2027-02-02,CUST3120,Home & Kitchen,Cookware Set,4,21587,86348,Credit Card,Gujarat,India,2
+ORD101129,2027-02-03,CUST3343,Home & Kitchen,Bedsheet,4,14657,58628,Cash On Delivery,Maharashtra,India,2
+ORD101130,2027-02-04,CUST6136,Electronics,Headphones,4,2242,8968,Credit Card,Gujarat,India,2
+ORD101131,2027-02-05,CUST6760,Home & Kitchen,Cookware Set,5,12801,64005,Credit Card,Delhi,India,2
+ORD101132,2027-02-06,CUST2240,Home & Kitchen,Water Bottle,2,11820,23640,Cash On Delivery,Gujarat,India,2
+ORD101133,2027-02-07,CUST1060,Beauty,Perfume,2,12026,24052,Upi,Delhi,India,2
+ORD101134,2027-02-08,CUST2639,Fashion,T-Shirt,1,14030,14030,Cash On Delivery,West Bengal,India,2
+ORD101135,2027-02-09,CUST7185,Home & Kitchen,Water Bottle,2,7598,15196,Cash On Delivery,Maharashtra,India,2
+ORD101136,2027-02-10,CUST8970,Beauty,Face Cream,2,28752,57504,Upi,Delhi,India,2
+ORD101137,2027-02-11,CUST2252,Beauty,Face Cream,4,16735,66940,Debit Card,Delhi,India,2
+ORD101138,2027-02-12,CUST5203,Beauty,Lipstick,1,29740,29740,Debit Card,Rajasthan,India,2
+ORD101139,2027-02-13,CUST9363,Fashion,T-Shirt,5,3595,17975,Credit Card,Rajasthan,India,2
+ORD101140,2027-02-14,CUST4549,Grocery,Atta 10Kg,1,13931,13931,Debit Card,Maharashtra,India,2
+ORD101141,2027-02-15,CUST5197,Electronics,Smartphone,2,4032,8064,Cash On Delivery,West Bengal,India,2
+ORD101142,2027-02-16,CUST8009,Home & Kitchen,Water Bottle,4,12658,50632,Credit Card,Delhi,India,2
+ORD101143,2027-02-17,CUST7667,Beauty,Perfume,3,8618,25854,Credit Card,Karnataka,India,2
+ORD101144,2027-02-18,CUST3322,Fashion,Jacket,5,14619,73095,Upi,West Bengal,India,2
+ORD101145,2027-02-19,CUST5090,Electronics,Smartwatch,5,7635,38175,Cash On Delivery,West Bengal,India,2
+ORD101146,2027-02-20,CUST7960,Home & Kitchen,Mixer Grinder,1,22767,22767,Cash On Delivery,Rajasthan,India,2
+ORD101147,2027-02-21,CUST4004,Grocery,Atta 10Kg,3,20543,61629,Credit Card,West Bengal,India,2
+ORD101148,2027-02-22,CUST6136,Beauty,Hair Dryer,5,26705,133525,Cash On Delivery,Gujarat,India,2
+ORD101149,2027-02-23,CUST1329,Home & Kitchen,Bedsheet,3,15796,47388,Credit Card,West Bengal,India,2
+ORD101150,2027-02-24,CUST4640,Electronics,Tablet,1,2985,2985,Cash On Delivery,Gujarat,India,2
+ORD101151,2027-02-25,CUST8982,Electronics,Tablet,1,22260,22260,Credit Card,Delhi,India,2
+ORD101152,2027-02-26,CUST5107,Grocery,Atta 10Kg,3,21429,64287,Credit Card,Rajasthan,India,2
+ORD101153,2027-02-27,CUST2341,Home & Kitchen,Water Bottle,4,24352,97408,Upi,Karnataka,India,2
+ORD101154,2027-02-28,CUST9407,Grocery,Tea 1Kg,5,24824,124120,Upi,Karnataka,India,2
+ORD101155,2027-03-01,CUST1338,Home & Kitchen,Bedsheet,5,27822,139110,Credit Card,Gujarat,India,3
+ORD101156,2027-03-02,CUST6895,Grocery,Rice 5Kg,3,29350,88050,Debit Card,Gujarat,India,3
+ORD101157,2027-03-03,CUST3708,Home & Kitchen,Bedsheet,4,24857,99428,Cash On Delivery,Maharashtra,India,3
+ORD101158,2027-03-04,CUST2750,Beauty,Hair Dryer,4,15049,60196,Upi,Rajasthan,India,3
+ORD101159,2027-03-05,CUST6604,Electronics,Headphones,5,20030,100150,Upi,Karnataka,India,3
+ORD101160,2027-03-06,CUST3421,Grocery,Tea 1Kg,5,4133,20665,Upi,Gujarat,India,3
+ORD101161,2027-03-07,CUST8119,Beauty,Hair Dryer,2,26358,52716,Debit Card,West Bengal,India,3
+ORD101162,2027-03-08,CUST9901,Grocery,Atta 10Kg,4,7081,28324,Debit Card,West Bengal,India,3
+ORD101163,2027-03-09,CUST6319,Home & Kitchen,Water Bottle,3,18512,55536,Credit Card,West Bengal,India,3
+ORD101164,2027-03-10,CUST7609,Grocery,Cooking Oil,3,23790,71370,Credit Card,Karnataka,India,3
+ORD101165,2027-03-11,CUST6387,Beauty,Lipstick,5,2619,13095,Upi,Delhi,India,3
+ORD101166,2027-03-12,CUST4993,Home & Kitchen,Bedsheet,3,11432,34296,Debit Card,West Bengal,India,3
+ORD101167,2027-03-13,CUST9680,Home & Kitchen,Bedsheet,4,4242,16968,Debit Card,Gujarat,India,3
+ORD101168,2027-03-14,CUST9044,Electronics,Headphones,3,11110,33330,Debit Card,Karnataka,India,3
+ORD101169,2027-03-15,CUST9238,Electronics,Smartphone,3,24237,72711,Debit Card,Karnataka,India,3
+ORD101170,2027-03-16,CUST5873,Beauty,Hair Dryer,2,28997,57994,Upi,Karnataka,India,3
+ORD101171,2027-03-17,CUST5806,Home & Kitchen,Mixer Grinder,1,28777,28777,Credit Card,Karnataka,India,3
+ORD101172,2027-03-18,CUST9592,Grocery,Atta 10Kg,2,3385,6770,Cash On Delivery,Karnataka,India,3
+ORD101173,2027-03-19,CUST6913,Grocery,Rice 5Kg,1,16970,16970,Upi,Gujarat,India,3
+ORD101174,2027-03-20,CUST8124,Home & Kitchen,Mixer Grinder,5,3252,16260,Credit Card,Gujarat,India,3
+ORD101175,2027-03-21,CUST4157,Fashion,Shoes,5,20950,104750,Cash On Delivery,Delhi,India,3
+ORD101176,2027-03-22,CUST1390,Electronics,Smartwatch,3,25723,77169,Cash On Delivery,West Bengal,India,3
+ORD101177,2027-03-23,CUST5430,Beauty,Face Cream,2,17021,34042,Credit Card,Delhi,India,3
+ORD101178,2027-03-24,CUST9820,Home & Kitchen,Cookware Set,3,21037,63111,Upi,Rajasthan,India,3
+ORD101179,2027-03-25,CUST8686,Beauty,Lipstick,1,13116,13116,Upi,Rajasthan,India,3
+ORD101180,2027-03-26,CUST5232,Beauty,Hair Dryer,5,9863,49315,Cash On Delivery,Karnataka,India,3
+ORD101181,2027-03-27,CUST9007,Home & Kitchen,Cookware Set,2,13760,27520,Cash On Delivery,West Bengal,India,3
+ORD101182,2027-03-28,CUST2521,Electronics,Laptop,2,21181,42362,Cash On Delivery,Karnataka,India,3
+ORD101183,2027-03-29,CUST2500,Grocery,Cooking Oil,5,13853,69265,Cash On Delivery,Maharashtra,India,3
+ORD101184,2027-03-30,CUST7737,Grocery,Tea 1Kg,4,6775,27100,Debit Card,Rajasthan,India,3
+ORD101185,2027-03-31,CUST4294,Grocery,Rice 5Kg,1,21776,21776,Debit Card,Maharashtra,India,3
+ORD101186,2027-04-01,CUST6085,Beauty,Lipstick,5,20257,101285,Debit Card,West Bengal,India,4
+ORD101187,2027-04-02,CUST3419,Electronics,Headphones,4,28067,112268,Upi,West Bengal,India,4
+ORD101188,2027-04-03,CUST4042,Home & Kitchen,Bedsheet,2,13163,26326,Debit Card,Maharashtra,India,4
+ORD101189,2027-04-04,CUST5497,Home & Kitchen,Cookware Set,2,10976,21952,Upi,Maharashtra,India,4
+ORD101190,2027-04-05,CUST2466,Beauty,Face Cream,2,11889,23778,Upi,Karnataka,India,4
+ORD101191,2027-04-06,CUST4561,Grocery,Atta 10Kg,5,25089,125445,Upi,Rajasthan,India,4
+ORD101192,2027-04-07,CUST1614,Home & Kitchen,Cookware Set,2,13593,27186,Cash On Delivery,Gujarat,India,4
+ORD101193,2027-04-08,CUST6392,Grocery,Tea 1Kg,4,23304,93216,Upi,Maharashtra,India,4
+ORD101194,2027-04-09,CUST8693,Beauty,Face Cream,5,29499,147495,Credit Card,West Bengal,India,4
+ORD101195,2027-04-10,CUST4223,Electronics,Headphones,3,5535,16605,Cash On Delivery,Rajasthan,India,4
+ORD101196,2027-04-11,CUST8138,Fashion,T-Shirt,2,3092,6184,Cash On Delivery,Maharashtra,India,4
+ORD101197,2027-04-12,CUST3667,Home & Kitchen,Bedsheet,4,1707,6828,Upi,Delhi,India,4
+ORD101198,2027-04-13,CUST8980,Beauty,Hair Dryer,1,4265,4265,Upi,Delhi,India,4
+ORD101199,2027-04-14,CUST1130,Home & Kitchen,Bedsheet,4,17906,71624,Debit Card,West Bengal,India,4
